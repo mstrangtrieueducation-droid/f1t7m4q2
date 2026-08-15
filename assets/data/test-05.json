@@ -1,0 +1,867 @@
+{
+  "book": "Family and Friends 1",
+  "short": "FF1",
+  "test": 5,
+  "startUnit": 13,
+  "endUnit": 15,
+  "assignmentCode": "FF1-TEST05",
+  "intro": "Con làm lại bài kiểm tra theo đúng thứ tự. Mỗi câu được trình bày riêng để con dễ đọc, dễ chọn và tự nhận ra lỗi sau khi hoàn thành.",
+  "total": 45,
+  "classes": [
+    "KIDS 7",
+    "KIDS 8",
+    "KIDS 10",
+    "KIDS 11",
+    "KIDS 14",
+    "KIDS 15",
+    "KIDS 17",
+    "KIDS 18",
+    "KIDS 19",
+    "KIDS 20",
+    "KIDS 21",
+    "KIDS 22",
+    "KIDS 23",
+    "KIDS 25",
+    "KIDS 26",
+    "KIDS 27",
+    "KIDS 28",
+    "KIDS 29",
+    "KIDS 30",
+    "KIDS 31",
+    "KIDS 32",
+    "KIDS 33",
+    "KIDS 34",
+    "KIDS 35",
+    "KIDS 36",
+    "KIDS 37",
+    "KIDS 38"
+  ],
+  "form": {
+    "endpoint": "https://docs.google.com/forms/u/0/d/e/1FAIpQLScm5maJLUzmM1lw-sTx5NG2A8BUONdWKhhEGoqfRRlsjTxOKA/formResponse",
+    "fields": {
+      "name": "entry.626306593",
+      "className": "entry.1998956975",
+      "assignmentCode": "entry.144780084",
+      "score": "entry.1804999547",
+      "total": "entry.1191306277",
+      "percent": "entry.567316915"
+    }
+  },
+  "pdf": "assets/pdf/test-05.pdf",
+  "units": [
+    {
+      "book": "Family and Friends 1",
+      "short": "FF1",
+      "unit": 13,
+      "total": 15,
+      "exercises": [
+        {
+          "number": 1,
+          "title": "Complete.",
+          "wordBank": null,
+          "reference": null,
+          "items": [
+            {
+              "id": "u13e1q1",
+              "order": 1,
+              "unit": 13,
+              "sourceNumber": 2,
+              "prompt": "2. bl _ _ _ _ t",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-13-1-q1.webp",
+              "options": [],
+              "answers": [
+                "blanket"
+              ],
+              "explanation": "Đáp án là “blanket”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u13e1q2",
+              "order": 2,
+              "unit": 13,
+              "sourceNumber": 3,
+              "prompt": "3. p _ ll _ w",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-13-1-q2.webp",
+              "options": [],
+              "answers": [
+                "pillow"
+              ],
+              "explanation": "Đáp án là “pillow”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u13e1q3",
+              "order": 3,
+              "unit": 13,
+              "sourceNumber": 4,
+              "prompt": "4. d _ s _",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-13-1-q3.webp",
+              "options": [],
+              "answers": [
+                "desk"
+              ],
+              "explanation": "Đáp án là “desk”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u13e1q4",
+              "order": 4,
+              "unit": 13,
+              "sourceNumber": 5,
+              "prompt": "5. c _ pb _ _ _ d",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-13-1-q4.webp",
+              "options": [],
+              "answers": [
+                "cupboard"
+              ],
+              "explanation": "Đáp án là “cupboard”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "title": "Write the correct words and numbers.",
+          "wordBank": null,
+          "reference": null,
+          "items": [
+            {
+              "id": "u13e2q1",
+              "order": 5,
+              "unit": 13,
+              "sourceNumber": 2,
+              "prompt": "2. w t l e v e — Write the word and its number.",
+              "type": "input",
+              "kind": "standard",
+              "visual": null,
+              "options": [],
+              "answers": [
+                "twelve 12",
+                "12 twelve"
+              ],
+              "explanation": "Đáp án là “twelve 12”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u13e2q2",
+              "order": 6,
+              "unit": 13,
+              "sourceNumber": 3,
+              "prompt": "3. t e e n f i f — Write the word and its number.",
+              "type": "input",
+              "kind": "standard",
+              "visual": null,
+              "options": [],
+              "answers": [
+                "fifteen 15",
+                "15 fifteen"
+              ],
+              "explanation": "Đáp án là “fifteen 15”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u13e2q3",
+              "order": 7,
+              "unit": 13,
+              "sourceNumber": 4,
+              "prompt": "4. e n t y t w — Write the word and its number.",
+              "type": "input",
+              "kind": "standard",
+              "visual": null,
+              "options": [],
+              "answers": [
+                "twenty 20",
+                "20 twenty"
+              ],
+              "explanation": "Đáp án là “twenty 20”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u13e2q4",
+              "order": 8,
+              "unit": 13,
+              "sourceNumber": 5,
+              "prompt": "5. f t e e n o u r — Write the word and its number.",
+              "type": "input",
+              "kind": "standard",
+              "visual": null,
+              "options": [],
+              "answers": [
+                "fourteen 14",
+                "14 fourteen"
+              ],
+              "explanation": "Đáp án là “fourteen 14”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "title": "Complete the sentences.",
+          "wordBank": null,
+          "reference": null,
+          "items": [
+            {
+              "id": "u13e3q1",
+              "order": 9,
+              "unit": 13,
+              "sourceNumber": 2,
+              "prompt": "2. There's a _____ under the bed.",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-13-3-q1.webp",
+              "options": [],
+              "answers": [
+                "teddy"
+              ],
+              "explanation": "Đáp án là “teddy”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u13e3q2",
+              "order": 10,
+              "unit": 13,
+              "sourceNumber": 3,
+              "prompt": "3. There are _____ on the rug.",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-13-3-q2.webp",
+              "options": [],
+              "answers": [
+                "dolls"
+              ],
+              "explanation": "Đáp án là “dolls”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u13e3q3",
+              "order": 11,
+              "unit": 13,
+              "sourceNumber": 4,
+              "prompt": "4. There are three _____ in the cupboard.",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-13-3-q3.webp",
+              "options": [],
+              "answers": [
+                "coats"
+              ],
+              "explanation": "Đáp án là “coats”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "title": "Write.",
+          "wordBank": [
+            "in",
+            "on",
+            "in",
+            "on"
+          ],
+          "reference": null,
+          "items": [
+            {
+              "id": "u13e4q1",
+              "order": 12,
+              "unit": 13,
+              "sourceNumber": 2,
+              "prompt": "2. There's a teddy _____ the bed.",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-13-4-q1.webp",
+              "options": [],
+              "answers": [
+                "on"
+              ],
+              "explanation": "Đáp án là “on”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u13e4q2",
+              "order": 13,
+              "unit": 13,
+              "sourceNumber": 3,
+              "prompt": "3. There are three coats _____ the cupboard.",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-13-4-q2.webp",
+              "options": [],
+              "answers": [
+                "in"
+              ],
+              "explanation": "Đáp án là “in”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u13e4q3",
+              "order": 14,
+              "unit": 13,
+              "sourceNumber": 4,
+              "prompt": "4. There are two books _____ the shelf.",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-13-4-q3.webp",
+              "options": [],
+              "answers": [
+                "on"
+              ],
+              "explanation": "Đáp án là “on”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u13e4q4",
+              "order": 15,
+              "unit": 13,
+              "sourceNumber": 5,
+              "prompt": "5. There's a car _____ the cupboard.",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-13-4-q4.webp",
+              "options": [],
+              "answers": [
+                "in"
+              ],
+              "explanation": "Đáp án là “in”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "book": "Family and Friends 1",
+      "short": "FF1",
+      "unit": 14,
+      "total": 15,
+      "exercises": [
+        {
+          "number": 1,
+          "title": "Write the words. Complete.",
+          "wordBank": null,
+          "reference": null,
+          "items": [
+            {
+              "id": "u14e1q1",
+              "order": 1,
+              "unit": 14,
+              "sourceNumber": "2a",
+              "prompt": "2a. Write the word.",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-14-1-q1.webp",
+              "options": [],
+              "answers": [
+                "fly"
+              ],
+              "explanation": "Đáp án là “fly”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u14e1q2",
+              "order": 2,
+              "unit": 14,
+              "sourceNumber": "3a",
+              "prompt": "3a. Write the word.",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-14-1-q2.webp",
+              "options": [],
+              "answers": [
+                "swim"
+              ],
+              "explanation": "Đáp án là “swim”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u14e1q3",
+              "order": 3,
+              "unit": 14,
+              "sourceNumber": "4a",
+              "prompt": "4a. Write the word.",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-14-1-q3.webp",
+              "options": [],
+              "answers": [
+                "sing"
+              ],
+              "explanation": "Đáp án là “sing”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u14e1q4",
+              "order": 4,
+              "unit": 14,
+              "sourceNumber": "5a",
+              "prompt": "5a. Write the word.",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-14-1-q4.webp",
+              "options": [],
+              "answers": [
+                "run"
+              ],
+              "explanation": "Đáp án là “run”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u14e1q5",
+              "order": 5,
+              "unit": 14,
+              "sourceNumber": "2b",
+              "prompt": "2b. Complete crossword clue 2.",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-14-1-q5.webp",
+              "options": [],
+              "answers": [
+                "fly"
+              ],
+              "explanation": "Đáp án là “fly”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u14e1q6",
+              "order": 6,
+              "unit": 14,
+              "sourceNumber": "3b",
+              "prompt": "3b. Complete crossword clue 3.",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-14-1-q6.webp",
+              "options": [],
+              "answers": [
+                "swim"
+              ],
+              "explanation": "Đáp án là “swim”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u14e1q7",
+              "order": 7,
+              "unit": 14,
+              "sourceNumber": "4b",
+              "prompt": "4b. Complete crossword clue 4.",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-14-1-q7.webp",
+              "options": [],
+              "answers": [
+                "sing"
+              ],
+              "explanation": "Đáp án là “sing”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u14e1q8",
+              "order": 8,
+              "unit": 14,
+              "sourceNumber": "5b",
+              "prompt": "5b. Complete crossword clue 5.",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-14-1-q8.webp",
+              "options": [],
+              "answers": [
+                "run"
+              ],
+              "explanation": "Đáp án là “run”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "title": "Order the words.",
+          "wordBank": null,
+          "reference": null,
+          "items": [
+            {
+              "id": "u14e2q1",
+              "order": 9,
+              "unit": 14,
+              "sourceNumber": 2,
+              "prompt": "2. can't / sing. / He",
+              "type": "input",
+              "kind": "standard",
+              "visual": null,
+              "options": [],
+              "answers": [
+                "He can't sing"
+              ],
+              "explanation": "Câu đúng là “He can't sing”. Con giữ đủ các từ và kiểm tra lại vị trí chủ ngữ, động từ và dấu câu."
+            },
+            {
+              "id": "u14e2q2",
+              "order": 10,
+              "unit": 14,
+              "sourceNumber": 3,
+              "prompt": "3. it / climb? / Can",
+              "type": "input",
+              "kind": "standard",
+              "visual": null,
+              "options": [],
+              "answers": [
+                "Can it climb"
+              ],
+              "explanation": "Câu đúng là “Can it climb”. Con giữ đủ các từ và kiểm tra lại vị trí chủ ngữ, động từ và dấu câu."
+            },
+            {
+              "id": "u14e2q3",
+              "order": 11,
+              "unit": 14,
+              "sourceNumber": 4,
+              "prompt": "4. fly? / Can / he",
+              "type": "input",
+              "kind": "standard",
+              "visual": null,
+              "options": [],
+              "answers": [
+                "Can he fly"
+              ],
+              "explanation": "Câu đúng là “Can he fly”. Con giữ đủ các từ và kiểm tra lại vị trí chủ ngữ, động từ và dấu câu."
+            },
+            {
+              "id": "u14e2q4",
+              "order": 12,
+              "unit": 14,
+              "sourceNumber": 5,
+              "prompt": "5. swim. / She / can",
+              "type": "input",
+              "kind": "standard",
+              "visual": null,
+              "options": [],
+              "answers": [
+                "She can swim"
+              ],
+              "explanation": "Câu đúng là “She can swim”. Con giữ đủ các từ và kiểm tra lại vị trí chủ ngữ, động từ và dấu câu."
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "title": "Look and complete.",
+          "wordBank": null,
+          "reference": null,
+          "items": [
+            {
+              "id": "u14e3q1",
+              "order": 13,
+              "unit": 14,
+              "sourceNumber": 2,
+              "prompt": "2. Can he run?",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-14-3-q1.webp",
+              "options": [],
+              "answers": [
+                "Yes, he can"
+              ],
+              "explanation": "Câu hoàn chỉnh là “Yes, he can”. Con đọc lại cả câu để kiểm tra ngữ pháp và trật tự từ."
+            },
+            {
+              "id": "u14e3q2",
+              "order": 14,
+              "unit": 14,
+              "sourceNumber": 3,
+              "prompt": "3. Can it fly? No, it _____.",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-14-3-q2.webp",
+              "options": [],
+              "answers": [
+                "No, it can't"
+              ],
+              "explanation": "Câu hoàn chỉnh là “No, it can't”. Con đọc lại cả câu để kiểm tra ngữ pháp và trật tự từ."
+            },
+            {
+              "id": "u14e3q3",
+              "order": 15,
+              "unit": 14,
+              "sourceNumber": 4,
+              "prompt": "4. Can she sing?",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-14-3-q3.webp",
+              "options": [],
+              "answers": [
+                "Yes she can",
+                "Yes, she can"
+              ],
+              "explanation": "Câu hoàn chỉnh là “Yes she can”. Con đọc lại cả câu để kiểm tra ngữ pháp và trật tự từ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "book": "Family and Friends 1",
+      "short": "FF1",
+      "unit": 15,
+      "total": 15,
+      "exercises": [
+        {
+          "number": 1,
+          "title": "Draw and circle.",
+          "wordBank": null,
+          "reference": null,
+          "items": [
+            {
+              "id": "u15e1q1",
+              "order": 1,
+              "unit": 15,
+              "sourceNumber": 2,
+              "prompt": "2. shell / sea",
+              "type": "choice",
+              "kind": "picture",
+              "visual": "assets/items/ff1-15-1-q1.webp",
+              "options": [
+                "shell",
+                "sea"
+              ],
+              "answers": [
+                "shell"
+              ],
+              "explanation": "Đáp án là “shell”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u15e1q2",
+              "order": 2,
+              "unit": 15,
+              "sourceNumber": 3,
+              "prompt": "3. cat / crab",
+              "type": "choice",
+              "kind": "picture",
+              "visual": "assets/items/ff1-15-1-q2.webp",
+              "options": [
+                "cat",
+                "crab"
+              ],
+              "answers": [
+                "crab"
+              ],
+              "explanation": "Đáp án là “crab”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u15e1q3",
+              "order": 3,
+              "unit": 15,
+              "sourceNumber": 4,
+              "prompt": "4. ball / boat",
+              "type": "choice",
+              "kind": "picture",
+              "visual": "assets/items/ff1-15-1-q3.webp",
+              "options": [
+                "ball",
+                "boat"
+              ],
+              "answers": [
+                "boat"
+              ],
+              "explanation": "Đáp án là “boat”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u15e1q4",
+              "order": 4,
+              "unit": 15,
+              "sourceNumber": 5,
+              "prompt": "5. ice cream / bat",
+              "type": "choice",
+              "kind": "picture",
+              "visual": "assets/items/ff1-15-1-q4.webp",
+              "options": [
+                "ice cream",
+                "bat"
+              ],
+              "answers": [
+                "ice cream"
+              ],
+              "explanation": "Đáp án là “ice cream”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "title": "Complete.",
+          "wordBank": null,
+          "reference": null,
+          "items": [
+            {
+              "id": "u15e2q1",
+              "order": 5,
+              "unit": 15,
+              "sourceNumber": 2,
+              "prompt": "2. s _ _ d c _ s t _ _",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-15-2-q1.webp",
+              "options": [],
+              "answers": [
+                "sandcastle"
+              ],
+              "explanation": "Đáp án là “sandcastle”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u15e2q2",
+              "order": 6,
+              "unit": 15,
+              "sourceNumber": 3,
+              "prompt": "3. b _ _",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-15-2-q2.webp",
+              "options": [],
+              "answers": [
+                "bat"
+              ],
+              "explanation": "Đáp án là “bat”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u15e2q3",
+              "order": 7,
+              "unit": 15,
+              "sourceNumber": 4,
+              "prompt": "4. b _ _ _",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-15-2-q3.webp",
+              "options": [],
+              "answers": [
+                "ball"
+              ],
+              "explanation": "Đáp án là “ball”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u15e2q4",
+              "order": 8,
+              "unit": 15,
+              "sourceNumber": 5,
+              "prompt": "5. s _ n  c r _ _ _",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-15-2-q4.webp",
+              "options": [],
+              "answers": [
+                "sun cream",
+                "suncream"
+              ],
+              "explanation": "Đáp án là “sun cream”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "title": "Order the words.",
+          "wordBank": null,
+          "reference": null,
+          "items": [
+            {
+              "id": "u15e3q1",
+              "order": 9,
+              "unit": 15,
+              "sourceNumber": 2,
+              "prompt": "2. find / shells. / Let's",
+              "type": "input",
+              "kind": "standard",
+              "visual": null,
+              "options": [],
+              "answers": [
+                "Let's find shells"
+              ],
+              "explanation": "Câu đúng là “Let's find shells”. Con giữ đủ các từ và kiểm tra lại vị trí chủ ngữ, động từ và dấu câu."
+            },
+            {
+              "id": "u15e3q2",
+              "order": 10,
+              "unit": 15,
+              "sourceNumber": 3,
+              "prompt": "3. good / idea. / That's / a",
+              "type": "input",
+              "kind": "standard",
+              "visual": null,
+              "options": [],
+              "answers": [
+                "That's a good idea"
+              ],
+              "explanation": "Câu đúng là “That's a good idea”. Con giữ đủ các từ và kiểm tra lại vị trí chủ ngữ, động từ và dấu câu."
+            },
+            {
+              "id": "u15e3q3",
+              "order": 11,
+              "unit": 15,
+              "sourceNumber": 4,
+              "prompt": "4. forget / Don't / hat. / your",
+              "type": "input",
+              "kind": "standard",
+              "visual": null,
+              "options": [],
+              "answers": [
+                "Don't forget your hat"
+              ],
+              "explanation": "Câu đúng là “Don't forget your hat”. Con giữ đủ các từ và kiểm tra lại vị trí chủ ngữ, động từ và dấu câu."
+            },
+            {
+              "id": "u15e3q4",
+              "order": 12,
+              "unit": 15,
+              "sourceNumber": 5,
+              "prompt": "5. sandcastles! / Let's / make",
+              "type": "input",
+              "kind": "standard",
+              "visual": null,
+              "options": [],
+              "answers": [
+                "Let's make sandcastles"
+              ],
+              "explanation": "Câu đúng là “Let's make sandcastles”. Con giữ đủ các từ và kiểm tra lại vị trí chủ ngữ, động từ và dấu câu."
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "title": "Write and match.",
+          "wordBank": [
+            "swim",
+            "forget",
+            "run"
+          ],
+          "reference": null,
+          "items": [
+            {
+              "id": "u15e4q1",
+              "order": 13,
+              "unit": 15,
+              "sourceNumber": 2,
+              "prompt": "2. Let's _____ in the sea.",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-15-4-q1.webp",
+              "options": [],
+              "answers": [
+                "swim"
+              ],
+              "explanation": "Đáp án là “swim”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u15e4q2",
+              "order": 14,
+              "unit": 15,
+              "sourceNumber": 3,
+              "prompt": "3. Don't _____ your sun cream.",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-15-4-q2.webp",
+              "options": [],
+              "answers": [
+                "forget"
+              ],
+              "explanation": "Đáp án là “forget”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u15e4q3",
+              "order": 15,
+              "unit": 15,
+              "sourceNumber": 4,
+              "prompt": "4. Let's _____ on the beach.",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-15-4-q3.webp",
+              "options": [],
+              "answers": [
+                "run"
+              ],
+              "explanation": "Đáp án là “run”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

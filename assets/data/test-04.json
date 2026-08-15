@@ -1,0 +1,1011 @@
+{
+  "book": "Family and Friends 1",
+  "short": "FF1",
+  "test": 4,
+  "startUnit": 10,
+  "endUnit": 12,
+  "assignmentCode": "FF1-TEST04",
+  "intro": "Con làm lại bài kiểm tra theo đúng thứ tự. Mỗi câu được trình bày riêng để con dễ đọc, dễ chọn và tự nhận ra lỗi sau khi hoàn thành.",
+  "total": 45,
+  "classes": [
+    "KIDS 7",
+    "KIDS 8",
+    "KIDS 10",
+    "KIDS 11",
+    "KIDS 14",
+    "KIDS 15",
+    "KIDS 17",
+    "KIDS 18",
+    "KIDS 19",
+    "KIDS 20",
+    "KIDS 21",
+    "KIDS 22",
+    "KIDS 23",
+    "KIDS 25",
+    "KIDS 26",
+    "KIDS 27",
+    "KIDS 28",
+    "KIDS 29",
+    "KIDS 30",
+    "KIDS 31",
+    "KIDS 32",
+    "KIDS 33",
+    "KIDS 34",
+    "KIDS 35",
+    "KIDS 36",
+    "KIDS 37",
+    "KIDS 38"
+  ],
+  "form": {
+    "endpoint": "https://docs.google.com/forms/u/0/d/e/1FAIpQLScm5maJLUzmM1lw-sTx5NG2A8BUONdWKhhEGoqfRRlsjTxOKA/formResponse",
+    "fields": {
+      "name": "entry.626306593",
+      "className": "entry.1998956975",
+      "assignmentCode": "entry.144780084",
+      "score": "entry.1804999547",
+      "total": "entry.1191306277",
+      "percent": "entry.567316915"
+    }
+  },
+  "pdf": "assets/pdf/test-04.pdf",
+  "units": [
+    {
+      "book": "Family and Friends 1",
+      "short": "FF1",
+      "unit": 10,
+      "total": 15,
+      "exercises": [
+        {
+          "number": 1,
+          "title": "Tick (✓) or cross (✗).",
+          "wordBank": null,
+          "reference": null,
+          "items": [
+            {
+              "id": "u10e1q1",
+              "order": 1,
+              "unit": 10,
+              "sourceNumber": 2,
+              "prompt": "2. straight hair",
+              "type": "choice",
+              "kind": "picture",
+              "visual": "assets/items/ff1-10-1-q1.webp",
+              "options": [
+                "Yes",
+                "No"
+              ],
+              "answers": [
+                "no"
+              ],
+              "explanation": "Đáp án là no. Con cần nhìn đúng chi tiết trong hình rồi mới chọn Yes hoặc No."
+            },
+            {
+              "id": "u10e1q2",
+              "order": 2,
+              "unit": 10,
+              "sourceNumber": 3,
+              "prompt": "3. long hair",
+              "type": "choice",
+              "kind": "picture",
+              "visual": "assets/items/ff1-10-1-q2.webp",
+              "options": [
+                "Yes",
+                "No"
+              ],
+              "answers": [
+                "yes"
+              ],
+              "explanation": "Đáp án là yes. Con cần nhìn đúng chi tiết trong hình rồi mới chọn Yes hoặc No."
+            },
+            {
+              "id": "u10e1q3",
+              "order": 3,
+              "unit": 10,
+              "sourceNumber": 4,
+              "prompt": "4. blond hair",
+              "type": "choice",
+              "kind": "picture",
+              "visual": "assets/items/ff1-10-1-q3.webp",
+              "options": [
+                "Yes",
+                "No"
+              ],
+              "answers": [
+                "no"
+              ],
+              "explanation": "Đáp án là no. Con cần nhìn đúng chi tiết trong hình rồi mới chọn Yes hoặc No."
+            },
+            {
+              "id": "u10e1q4",
+              "order": 4,
+              "unit": 10,
+              "sourceNumber": 5,
+              "prompt": "5. short hair",
+              "type": "choice",
+              "kind": "picture",
+              "visual": "assets/items/ff1-10-1-q4.webp",
+              "options": [
+                "Yes",
+                "No"
+              ],
+              "answers": [
+                "yes"
+              ],
+              "explanation": "Đáp án là yes. Con cần nhìn đúng chi tiết trong hình rồi mới chọn Yes hoặc No."
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "title": "Write and draw the shapes.",
+          "wordBank": null,
+          "reference": null,
+          "items": [
+            {
+              "id": "u10e2q1",
+              "order": 5,
+              "unit": 10,
+              "sourceNumber": 2,
+              "prompt": "2. q s u a e r",
+              "type": "input",
+              "kind": "standard",
+              "visual": null,
+              "options": [],
+              "answers": [
+                "square"
+              ],
+              "explanation": "Đáp án là “square”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u10e2q2",
+              "order": 6,
+              "unit": 10,
+              "sourceNumber": 3,
+              "prompt": "3. t a n r e g c l e",
+              "type": "input",
+              "kind": "standard",
+              "visual": null,
+              "options": [],
+              "answers": [
+                "rectangle"
+              ],
+              "explanation": "Đáp án là “rectangle”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u10e2q3",
+              "order": 7,
+              "unit": 10,
+              "sourceNumber": 4,
+              "prompt": "4. t r n l g a i e",
+              "type": "input",
+              "kind": "standard",
+              "visual": null,
+              "options": [],
+              "answers": [
+                "triangle"
+              ],
+              "explanation": "Đáp án là “triangle”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "title": "Look. Complete the sentences.",
+          "wordBank": null,
+          "reference": null,
+          "items": [
+            {
+              "id": "u10e3q1",
+              "order": 8,
+              "unit": 10,
+              "sourceNumber": 2,
+              "prompt": "2. It _____ two sides. _____ three sides.",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-10-3-q1.webp",
+              "options": [],
+              "answers": [
+                "hasn't got It's got",
+                "It hasn't got two sides It's got three sides"
+              ],
+              "explanation": "Câu hoàn chỉnh là “hasn't got It's got”. Con đọc lại cả câu để kiểm tra ngữ pháp và trật tự từ."
+            },
+            {
+              "id": "u10e3q2",
+              "order": 9,
+              "unit": 10,
+              "sourceNumber": 3,
+              "prompt": "3. He _____ blond hair. _____ black hair.",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-10-3-q2.webp",
+              "options": [],
+              "answers": [
+                "hasn't got He's got",
+                "He hasn't got blond hair He's got black hair"
+              ],
+              "explanation": "Câu hoàn chỉnh là “hasn't got He's got”. Con đọc lại cả câu để kiểm tra ngữ pháp và trật tự từ."
+            },
+            {
+              "id": "u10e3q3",
+              "order": 10,
+              "unit": 10,
+              "sourceNumber": 4,
+              "prompt": "4. It _____ three sides. _____ four sides.",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-10-3-q3.webp",
+              "options": [],
+              "answers": [
+                "hasn't got It's got",
+                "It hasn't got three sides It's got four sides"
+              ],
+              "explanation": "Câu hoàn chỉnh là “hasn't got It's got”. Con đọc lại cả câu để kiểm tra ngữ pháp và trật tự từ."
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "title": "Match.",
+          "wordBank": null,
+          "reference": null,
+          "items": [
+            {
+              "id": "u10e4q1",
+              "order": 11,
+              "unit": 10,
+              "sourceNumber": 2,
+              "prompt": "2. She has got blue eyes.",
+              "type": "choice",
+              "kind": "standard",
+              "visual": null,
+              "options": [
+                {
+                  "value": "a",
+                  "label": "a. He hasn't got straight hair."
+                },
+                {
+                  "value": "b",
+                  "label": "b. He hasn't got blue eyes."
+                },
+                {
+                  "value": "c",
+                  "label": "c. She's got brown hair."
+                },
+                {
+                  "value": "d",
+                  "label": "d. She's got blue eyes."
+                },
+                {
+                  "value": "e",
+                  "label": "e. She hasn't got brown hair."
+                },
+                {
+                  "value": "f",
+                  "label": "f. It's got three sides."
+                }
+              ],
+              "answers": [
+                "d"
+              ],
+              "explanation": "Chọn phương án D. Con đối chiếu ý số tương ứng với các phương án trong phần đề bài."
+            },
+            {
+              "id": "u10e4q2",
+              "order": 12,
+              "unit": 10,
+              "sourceNumber": 3,
+              "prompt": "3. He has not got straight hair.",
+              "type": "choice",
+              "kind": "standard",
+              "visual": null,
+              "options": [
+                {
+                  "value": "a",
+                  "label": "a. He hasn't got straight hair."
+                },
+                {
+                  "value": "b",
+                  "label": "b. He hasn't got blue eyes."
+                },
+                {
+                  "value": "c",
+                  "label": "c. She's got brown hair."
+                },
+                {
+                  "value": "d",
+                  "label": "d. She's got blue eyes."
+                },
+                {
+                  "value": "e",
+                  "label": "e. She hasn't got brown hair."
+                },
+                {
+                  "value": "f",
+                  "label": "f. It's got three sides."
+                }
+              ],
+              "answers": [
+                "a"
+              ],
+              "explanation": "Chọn phương án A. Con đối chiếu ý số tương ứng với các phương án trong phần đề bài."
+            },
+            {
+              "id": "u10e4q3",
+              "order": 13,
+              "unit": 10,
+              "sourceNumber": 4,
+              "prompt": "4. It has got three sides.",
+              "type": "choice",
+              "kind": "standard",
+              "visual": null,
+              "options": [
+                {
+                  "value": "a",
+                  "label": "a. He hasn't got straight hair."
+                },
+                {
+                  "value": "b",
+                  "label": "b. He hasn't got blue eyes."
+                },
+                {
+                  "value": "c",
+                  "label": "c. She's got brown hair."
+                },
+                {
+                  "value": "d",
+                  "label": "d. She's got blue eyes."
+                },
+                {
+                  "value": "e",
+                  "label": "e. She hasn't got brown hair."
+                },
+                {
+                  "value": "f",
+                  "label": "f. It's got three sides."
+                }
+              ],
+              "answers": [
+                "f"
+              ],
+              "explanation": "Chọn phương án F. Con đối chiếu ý số tương ứng với các phương án trong phần đề bài."
+            },
+            {
+              "id": "u10e4q4",
+              "order": 14,
+              "unit": 10,
+              "sourceNumber": 5,
+              "prompt": "5. He has not got blue eyes.",
+              "type": "choice",
+              "kind": "standard",
+              "visual": null,
+              "options": [
+                {
+                  "value": "a",
+                  "label": "a. He hasn't got straight hair."
+                },
+                {
+                  "value": "b",
+                  "label": "b. He hasn't got blue eyes."
+                },
+                {
+                  "value": "c",
+                  "label": "c. She's got brown hair."
+                },
+                {
+                  "value": "d",
+                  "label": "d. She's got blue eyes."
+                },
+                {
+                  "value": "e",
+                  "label": "e. She hasn't got brown hair."
+                },
+                {
+                  "value": "f",
+                  "label": "f. It's got three sides."
+                }
+              ],
+              "answers": [
+                "b"
+              ],
+              "explanation": "Chọn phương án B. Con đối chiếu ý số tương ứng với các phương án trong phần đề bài."
+            },
+            {
+              "id": "u10e4q5",
+              "order": 15,
+              "unit": 10,
+              "sourceNumber": 6,
+              "prompt": "6. She has not got brown hair.",
+              "type": "choice",
+              "kind": "standard",
+              "visual": null,
+              "options": [
+                {
+                  "value": "a",
+                  "label": "a. He hasn't got straight hair."
+                },
+                {
+                  "value": "b",
+                  "label": "b. He hasn't got blue eyes."
+                },
+                {
+                  "value": "c",
+                  "label": "c. She's got brown hair."
+                },
+                {
+                  "value": "d",
+                  "label": "d. She's got blue eyes."
+                },
+                {
+                  "value": "e",
+                  "label": "e. She hasn't got brown hair."
+                },
+                {
+                  "value": "f",
+                  "label": "f. It's got three sides."
+                }
+              ],
+              "answers": [
+                "e"
+              ],
+              "explanation": "Chọn phương án E. Con đối chiếu ý số tương ứng với các phương án trong phần đề bài."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "book": "Family and Friends 1",
+      "short": "FF1",
+      "unit": 11,
+      "total": 15,
+      "exercises": [
+        {
+          "number": 1,
+          "title": "Write.",
+          "wordBank": null,
+          "reference": null,
+          "items": [
+            {
+              "id": "u11e1q1",
+              "order": 1,
+              "unit": 11,
+              "sourceNumber": 2,
+              "prompt": "2. r r o t p a",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-11-1-q1.webp",
+              "options": [],
+              "answers": [
+                "parrot"
+              ],
+              "explanation": "Đáp án là “parrot”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u11e1q2",
+              "order": 2,
+              "unit": 11,
+              "sourceNumber": 3,
+              "prompt": "3. n i l o",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-11-1-q2.webp",
+              "options": [],
+              "answers": [
+                "lion"
+              ],
+              "explanation": "Đáp án là “lion”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u11e1q3",
+              "order": 3,
+              "unit": 11,
+              "sourceNumber": 4,
+              "prompt": "4. a b r z e",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-11-1-q3.webp",
+              "options": [],
+              "answers": [
+                "zebra"
+              ],
+              "explanation": "Đáp án là “zebra”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u11e1q4",
+              "order": 4,
+              "unit": 11,
+              "sourceNumber": 5,
+              "prompt": "5. o a g t",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-11-1-q4.webp",
+              "options": [],
+              "answers": [
+                "goat"
+              ],
+              "explanation": "Đáp án là “goat”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "title": "Circle the odd one out. Write.",
+          "wordBank": null,
+          "reference": null,
+          "items": [
+            {
+              "id": "u11e2q1",
+              "order": 5,
+              "unit": 11,
+              "sourceNumber": 2,
+              "prompt": "2. Write the odd one out.",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-11-2-q1.webp",
+              "options": [],
+              "answers": [
+                "tiger"
+              ],
+              "explanation": "Đáp án là “tiger”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u11e2q2",
+              "order": 6,
+              "unit": 11,
+              "sourceNumber": 3,
+              "prompt": "3. Write the odd one out.",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-11-2-q2.webp",
+              "options": [],
+              "answers": [
+                "giraffe"
+              ],
+              "explanation": "Đáp án là “giraffe”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u11e2q3",
+              "order": 7,
+              "unit": 11,
+              "sourceNumber": 4,
+              "prompt": "4. Write the odd one out.",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-11-2-q3.webp",
+              "options": [],
+              "answers": [
+                "snake"
+              ],
+              "explanation": "Đáp án là “snake”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "title": "Circle the correct sentences.",
+          "wordBank": null,
+          "reference": null,
+          "items": [
+            {
+              "id": "u11e3q1",
+              "order": 8,
+              "unit": 11,
+              "sourceNumber": 2,
+              "prompt": "2. Choose the correct sentence.",
+              "type": "choice",
+              "kind": "picture",
+              "visual": "assets/items/ff1-11-3-q1.webp",
+              "options": [
+                "They're big.",
+                "He's big."
+              ],
+              "answers": [
+                "They're big"
+              ],
+              "explanation": "Đáp án là “They're big”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u11e3q2",
+              "order": 9,
+              "unit": 11,
+              "sourceNumber": 3,
+              "prompt": "3. Choose the correct sentence.",
+              "type": "choice",
+              "kind": "picture",
+              "visual": "assets/items/ff1-11-3-q2.webp",
+              "options": [
+                "It's tall.",
+                "It's big."
+              ],
+              "answers": [
+                "It's big"
+              ],
+              "explanation": "Đáp án là “It's big”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u11e3q3",
+              "order": 10,
+              "unit": 11,
+              "sourceNumber": 4,
+              "prompt": "4. Choose the correct sentence.",
+              "type": "choice",
+              "kind": "picture",
+              "visual": "assets/items/ff1-11-3-q3.webp",
+              "options": [
+                "She's little.",
+                "She's tall."
+              ],
+              "answers": [
+                "She's little"
+              ],
+              "explanation": "Đáp án là “She's little”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "title": "Look and write.",
+          "wordBank": null,
+          "reference": null,
+          "items": [
+            {
+              "id": "u11e4q1",
+              "order": 11,
+              "unit": 11,
+              "sourceNumber": 2,
+              "prompt": "2. (sad face) I _____ eggs.",
+              "type": "input",
+              "kind": "standard",
+              "visual": null,
+              "options": [],
+              "answers": [
+                "I don't like eggs"
+              ],
+              "explanation": "Câu hoàn chỉnh là “I don't like eggs”. Con đọc lại cả câu để kiểm tra ngữ pháp và trật tự từ."
+            },
+            {
+              "id": "u11e4q2",
+              "order": 12,
+              "unit": 11,
+              "sourceNumber": 3,
+              "prompt": "3. (sad face) I _____ snakes.",
+              "type": "input",
+              "kind": "standard",
+              "visual": null,
+              "options": [],
+              "answers": [
+                "I don't like snakes"
+              ],
+              "explanation": "Câu hoàn chỉnh là “I don't like snakes”. Con đọc lại cả câu để kiểm tra ngữ pháp và trật tự từ."
+            },
+            {
+              "id": "u11e4q3",
+              "order": 13,
+              "unit": 11,
+              "sourceNumber": 4,
+              "prompt": "4. (happy face) I _____ parrots.",
+              "type": "input",
+              "kind": "standard",
+              "visual": null,
+              "options": [],
+              "answers": [
+                "I like parrots"
+              ],
+              "explanation": "Câu hoàn chỉnh là “I like parrots”. Con đọc lại cả câu để kiểm tra ngữ pháp và trật tự từ."
+            },
+            {
+              "id": "u11e4q4",
+              "order": 14,
+              "unit": 11,
+              "sourceNumber": 5,
+              "prompt": "5. (sad face) I _____ goats.",
+              "type": "input",
+              "kind": "standard",
+              "visual": null,
+              "options": [],
+              "answers": [
+                "I don't like goats"
+              ],
+              "explanation": "Câu hoàn chỉnh là “I don't like goats”. Con đọc lại cả câu để kiểm tra ngữ pháp và trật tự từ."
+            },
+            {
+              "id": "u11e4q5",
+              "order": 15,
+              "unit": 11,
+              "sourceNumber": 6,
+              "prompt": "6. (happy face) I _____ lions.",
+              "type": "input",
+              "kind": "standard",
+              "visual": null,
+              "options": [],
+              "answers": [
+                "I like lions"
+              ],
+              "explanation": "Câu hoàn chỉnh là “I like lions”. Con đọc lại cả câu để kiểm tra ngữ pháp và trật tự từ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "book": "Family and Friends 1",
+      "short": "FF1",
+      "unit": 12,
+      "total": 15,
+      "exercises": [
+        {
+          "number": 1,
+          "title": "Circle the correct word.",
+          "wordBank": null,
+          "reference": null,
+          "items": [
+            {
+              "id": "u12e1q1",
+              "order": 1,
+              "unit": 12,
+              "sourceNumber": 2,
+              "prompt": "2. meat / sandwich",
+              "type": "choice",
+              "kind": "picture",
+              "visual": "assets/items/ff1-12-1-q1.webp",
+              "options": [
+                "meat",
+                "sandwich"
+              ],
+              "answers": [
+                "meat"
+              ],
+              "explanation": "Đáp án là “meat”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u12e1q2",
+              "order": 2,
+              "unit": 12,
+              "sourceNumber": 3,
+              "prompt": "3. tomatoes / carrots",
+              "type": "choice",
+              "kind": "picture",
+              "visual": "assets/items/ff1-12-1-q2.webp",
+              "options": [
+                "tomatoes",
+                "carrots"
+              ],
+              "answers": [
+                "carrots"
+              ],
+              "explanation": "Đáp án là “carrots”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u12e1q3",
+              "order": 3,
+              "unit": 12,
+              "sourceNumber": 4,
+              "prompt": "4. bread / biscuit",
+              "type": "choice",
+              "kind": "picture",
+              "visual": "assets/items/ff1-12-1-q3.webp",
+              "options": [
+                "bread",
+                "biscuit"
+              ],
+              "answers": [
+                "bread"
+              ],
+              "explanation": "Đáp án là “bread”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "title": "Complete.",
+          "wordBank": null,
+          "reference": null,
+          "items": [
+            {
+              "id": "u12e2q1",
+              "order": 4,
+              "unit": 12,
+              "sourceNumber": 2,
+              "prompt": "2. y _ _ _ _ _",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-12-2-q1.webp",
+              "options": [],
+              "answers": [
+                "yogurt",
+                "yoghurt"
+              ],
+              "explanation": "Đáp án là “yogurt”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u12e2q2",
+              "order": 5,
+              "unit": 12,
+              "sourceNumber": 3,
+              "prompt": "3. m _ _ _",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-12-2-q2.webp",
+              "options": [],
+              "answers": [
+                "milk"
+              ],
+              "explanation": "Đáp án là “milk”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u12e2q3",
+              "order": 6,
+              "unit": 12,
+              "sourceNumber": 4,
+              "prompt": "4. r _ _ _",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-12-2-q3.webp",
+              "options": [],
+              "answers": [
+                "rice"
+              ],
+              "explanation": "Đáp án là “rice”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u12e2q4",
+              "order": 7,
+              "unit": 12,
+              "sourceNumber": 5,
+              "prompt": "5. j _ _ _ _",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-12-2-q4.webp",
+              "options": [],
+              "answers": [
+                "juice"
+              ],
+              "explanation": "Đáp án là “juice”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u12e2q5",
+              "order": 8,
+              "unit": 12,
+              "sourceNumber": 6,
+              "prompt": "6. f _ _ _",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-12-2-q5.webp",
+              "options": [],
+              "answers": [
+                "fish"
+              ],
+              "explanation": "Đáp án là “fish”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "title": "Order the words.",
+          "wordBank": null,
+          "reference": null,
+          "items": [
+            {
+              "id": "u12e3q1",
+              "order": 9,
+              "unit": 12,
+              "sourceNumber": 2,
+              "prompt": "2. Do / milk? / you / like",
+              "type": "input",
+              "kind": "standard",
+              "visual": null,
+              "options": [],
+              "answers": [
+                "Do you like milk"
+              ],
+              "explanation": "Câu đúng là “Do you like milk”. Con giữ đủ các từ và kiểm tra lại vị trí chủ ngữ, động từ và dấu câu."
+            },
+            {
+              "id": "u12e3q2",
+              "order": 10,
+              "unit": 12,
+              "sourceNumber": 3,
+              "prompt": "3. do / What / like? / you",
+              "type": "input",
+              "kind": "standard",
+              "visual": null,
+              "options": [],
+              "answers": [
+                "What do you like"
+              ],
+              "explanation": "Câu đúng là “What do you like”. Con giữ đủ các từ và kiểm tra lại vị trí chủ ngữ, động từ và dấu câu."
+            },
+            {
+              "id": "u12e3q3",
+              "order": 11,
+              "unit": 12,
+              "sourceNumber": 4,
+              "prompt": "4. like / yogurt. / I",
+              "type": "input",
+              "kind": "standard",
+              "visual": null,
+              "options": [],
+              "answers": [
+                "I like yogurt",
+                "I like yoghurt"
+              ],
+              "explanation": "Câu đúng là “I like yogurt”. Con giữ đủ các từ và kiểm tra lại vị trí chủ ngữ, động từ và dấu câu."
+            },
+            {
+              "id": "u12e3q4",
+              "order": 12,
+              "unit": 12,
+              "sourceNumber": 5,
+              "prompt": "5. don't / I / grapes. / like",
+              "type": "input",
+              "kind": "standard",
+              "visual": null,
+              "options": [],
+              "answers": [
+                "I don't like grapes"
+              ],
+              "explanation": "Câu đúng là “I don't like grapes”. Con giữ đủ các từ và kiểm tra lại vị trí chủ ngữ, động từ và dấu câu."
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "title": "Complete the sentences.",
+          "wordBank": null,
+          "reference": null,
+          "items": [
+            {
+              "id": "u12e4q1",
+              "order": 13,
+              "unit": 12,
+              "sourceNumber": 2,
+              "prompt": "2. _____ you like fish? No, I _____.",
+              "type": "input",
+              "kind": "standard",
+              "visual": null,
+              "options": [],
+              "answers": [
+                "Do don't",
+                "Do you like fish No I don't"
+              ],
+              "explanation": "Đáp án là “Do don't”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u12e4q2",
+              "order": 14,
+              "unit": 12,
+              "sourceNumber": 3,
+              "prompt": "3. _____ you like tomatoes? No, I _____.",
+              "type": "input",
+              "kind": "standard",
+              "visual": null,
+              "options": [],
+              "answers": [
+                "Do don't",
+                "Do you like tomatoes No I don't"
+              ],
+              "explanation": "Đáp án là “Do don't”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u12e4q3",
+              "order": 15,
+              "unit": 12,
+              "sourceNumber": 4,
+              "prompt": "4. _____ you like carrots? Yes, I _____.",
+              "type": "input",
+              "kind": "standard",
+              "visual": null,
+              "options": [],
+              "answers": [
+                "Do do",
+                "Do you like carrots Yes I do"
+              ],
+              "explanation": "Đáp án là “Do do”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1000 @@
+{
+  "book": "Family and Friends 1",
+  "short": "FF1",
+  "test": 1,
+  "startUnit": 1,
+  "endUnit": 3,
+  "assignmentCode": "FF1-TEST01",
+  "intro": "Con làm lại bài kiểm tra theo đúng thứ tự. Mỗi câu được trình bày riêng để con dễ đọc, dễ chọn và tự nhận ra lỗi sau khi hoàn thành.",
+  "total": 45,
+  "classes": [
+    "KIDS 7",
+    "KIDS 8",
+    "KIDS 10",
+    "KIDS 11",
+    "KIDS 14",
+    "KIDS 15",
+    "KIDS 17",
+    "KIDS 18",
+    "KIDS 19",
+    "KIDS 20",
+    "KIDS 21",
+    "KIDS 22",
+    "KIDS 23",
+    "KIDS 25",
+    "KIDS 26",
+    "KIDS 27",
+    "KIDS 28",
+    "KIDS 29",
+    "KIDS 30",
+    "KIDS 31",
+    "KIDS 32",
+    "KIDS 33",
+    "KIDS 34",
+    "KIDS 35",
+    "KIDS 36",
+    "KIDS 37",
+    "KIDS 38"
+  ],
+  "form": {
+    "endpoint": "https://docs.google.com/forms/u/0/d/e/1FAIpQLScm5maJLUzmM1lw-sTx5NG2A8BUONdWKhhEGoqfRRlsjTxOKA/formResponse",
+    "fields": {
+      "name": "entry.626306593",
+      "className": "entry.1998956975",
+      "assignmentCode": "entry.144780084",
+      "score": "entry.1804999547",
+      "total": "entry.1191306277",
+      "percent": "entry.567316915"
+    }
+  },
+  "pdf": "assets/pdf/test-01.pdf",
+  "units": [
+    {
+      "book": "Family and Friends 1",
+      "short": "FF1",
+      "unit": 1,
+      "total": 15,
+      "exercises": [
+        {
+          "number": 1,
+          "title": "Choose and write.",
+          "wordBank": [
+            "pen",
+            "door",
+            "apple",
+            "bag"
+          ],
+          "reference": null,
+          "items": [
+            {
+              "id": "u01e1q1",
+              "order": 1,
+              "unit": 1,
+              "sourceNumber": 2,
+              "prompt": "2. Write the word.",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-1-1-q1.webp",
+              "options": [],
+              "answers": [
+                "door"
+              ],
+              "explanation": "Đáp án là “door”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u01e1q2",
+              "order": 2,
+              "unit": 1,
+              "sourceNumber": 3,
+              "prompt": "3. Write the word.",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-1-1-q2.webp",
+              "options": [],
+              "answers": [
+                "pen"
+              ],
+              "explanation": "Đáp án là “pen”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u01e1q3",
+              "order": 3,
+              "unit": 1,
+              "sourceNumber": 4,
+              "prompt": "4. Write the word.",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-1-1-q3.webp",
+              "options": [],
+              "answers": [
+                "bag"
+              ],
+              "explanation": "Đáp án là “bag”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u01e1q4",
+              "order": 4,
+              "unit": 1,
+              "sourceNumber": 5,
+              "prompt": "5. Write the word.",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-1-1-q4.webp",
+              "options": [],
+              "answers": [
+                "apple"
+              ],
+              "explanation": "Đáp án là “apple”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "title": "Complete the words.",
+          "wordBank": null,
+          "reference": null,
+          "items": [
+            {
+              "id": "u01e2q1",
+              "order": 5,
+              "unit": 1,
+              "sourceNumber": 2,
+              "prompt": "2. p _ _ _ _ l",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-1-2-q1.webp",
+              "options": [],
+              "answers": [
+                "pencil"
+              ],
+              "explanation": "Đáp án là “pencil”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u01e2q2",
+              "order": 6,
+              "unit": 1,
+              "sourceNumber": 3,
+              "prompt": "3. r _ _ _ r",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-1-2-q2.webp",
+              "options": [],
+              "answers": [
+                "ruler"
+              ],
+              "explanation": "Đáp án là “ruler”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u01e2q3",
+              "order": 7,
+              "unit": 1,
+              "sourceNumber": 4,
+              "prompt": "4. r _ _ _ _ r",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-1-2-q3.webp",
+              "options": [],
+              "answers": [
+                "rubber"
+              ],
+              "explanation": "Đáp án là “rubber”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u01e2q4",
+              "order": 8,
+              "unit": 1,
+              "sourceNumber": 5,
+              "prompt": "5. w _ _ _ _ w",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-1-2-q4.webp",
+              "options": [],
+              "answers": [
+                "window"
+              ],
+              "explanation": "Đáp án là “window”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "title": "Write.",
+          "wordBank": null,
+          "reference": null,
+          "items": [
+            {
+              "id": "u01e3q1",
+              "order": 9,
+              "unit": 1,
+              "sourceNumber": 2,
+              "prompt": "2. What's this?",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-1-3-q1.webp",
+              "options": [],
+              "answers": [
+                "It's a pen"
+              ],
+              "explanation": "Câu hoàn chỉnh là “It's a pen”. Con đọc lại cả câu để kiểm tra ngữ pháp và trật tự từ."
+            },
+            {
+              "id": "u01e3q2",
+              "order": 10,
+              "unit": 1,
+              "sourceNumber": 3,
+              "prompt": "3. What's this?",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-1-3-q2.webp",
+              "options": [],
+              "answers": [
+                "It's a rubber"
+              ],
+              "explanation": "Câu hoàn chỉnh là “It's a rubber”. Con đọc lại cả câu để kiểm tra ngữ pháp và trật tự từ."
+            },
+            {
+              "id": "u01e3q3",
+              "order": 11,
+              "unit": 1,
+              "sourceNumber": 4,
+              "prompt": "4. What's this?",
+              "type": "input",
+              "kind": "picture",
+              "visual": "assets/items/ff1-1-3-q3.webp",
+              "options": [],
+              "answers": [
+                "It's a bag"
+              ],
+              "explanation": "Câu hoàn chỉnh là “It's a bag”. Con đọc lại cả câu để kiểm tra ngữ pháp và trật tự từ."
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "title": "Match.",
+          "wordBank": null,
+          "reference": null,
+          "items": [
+            {
+              "id": "u01e4q1",
+              "order": 12,
+              "unit": 1,
+              "sourceNumber": 2,
+              "prompt": "2. It is my bag.",
+              "type": "choice",
+              "kind": "standard",
+              "visual": null,
+              "options": [
+                {
+                  "value": "a",
+                  "label": "a. It's red."
+                },
+                {
+                  "value": "b",
+                  "label": "b. What's this?"
+                },
+                {
+                  "value": "c",
+                  "label": "c. It's my pencil."
+                },
+                {
+                  "value": "d",
+                  "label": "d. It's my bag."
+                },
+                {
+                  "value": "e",
+                  "label": "e. It's a ruler."
+                }
+              ],
+              "answers": [
+                "d"
+              ],
+              "explanation": "Chọn phương án D. Con đối chiếu ý số tương ứng với các phương án trong phần đề bài."
+            },
+            {
+              "id": "u01e4q2",
+              "order": 13,
+              "unit": 1,
+              "sourceNumber": 3,
+              "prompt": "3. It is my pencil.",
+              "type": "choice",
+              "kind": "standard",
+              "visual": null,
+              "options": [
+                {
+                  "value": "a",
+                  "label": "a. It's red."
+                },
+                {
+                  "value": "b",
+                  "label": "b. What's this?"
+                },
+                {
+                  "value": "c",
+                  "label": "c. It's my pencil."
+                },
+                {
+                  "value": "d",
+                  "label": "d. It's my bag."
+                },
+                {
+                  "value": "e",
+                  "label": "e. It's a ruler."
+                }
+              ],
+              "answers": [
+                "c"
+              ],
+              "explanation": "Chọn phương án C. Con đối chiếu ý số tương ứng với các phương án trong phần đề bài."
+            },
+            {
+              "id": "u01e4q3",
+              "order": 14,
+              "unit": 1,
+              "sourceNumber": 4,
+              "prompt": "4. It is red.",
+              "type": "choice",
+              "kind": "standard",
+              "visual": null,
+              "options": [
+                {
+                  "value": "a",
+                  "label": "a. It's red."
+                },
+                {
+                  "value": "b",
+                  "label": "b. What's this?"
+                },
+                {
+                  "value": "c",
+                  "label": "c. It's my pencil."
+                },
+                {
+                  "value": "d",
+                  "label": "d. It's my bag."
+                },
+                {
+                  "value": "e",
+                  "label": "e. It's a ruler."
+                }
+              ],
+              "answers": [
+                "a"
+              ],
+              "explanation": "Chọn phương án A. Con đối chiếu ý số tương ứng với các phương án trong phần đề bài."
+            },
+            {
+              "id": "u01e4q4",
+              "order": 15,
+              "unit": 1,
+              "sourceNumber": 5,
+              "prompt": "5. It is a ruler.",
+              "type": "choice",
+              "kind": "standard",
+              "visual": null,
+              "options": [
+                {
+                  "value": "a",
+                  "label": "a. It's red."
+                },
+                {
+                  "value": "b",
+                  "label": "b. What's this?"
+                },
+                {
+                  "value": "c",
+                  "label": "c. It's my pencil."
+                },
+                {
+                  "value": "d",
+                  "label": "d. It's my bag."
+                },
+                {
+                  "value": "e",
+                  "label": "e. It's a ruler."
+                }
+              ],
+              "answers": [
+                "e"
+              ],
+              "explanation": "Chọn phương án E. Con đối chiếu ý số tương ứng với các phương án trong phần đề bài."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "book": "Family and Friends 1",
+      "short": "FF1",
+      "unit": 2,
+      "total": 15,
+      "exercises": [
+        {
+          "number": 1,
+          "title": "Circle the correct word.",
+          "wordBank": null,
+          "reference": null,
+          "items": [
+            {
+              "id": "u02e1q1",
+              "order": 1,
+              "unit": 2,
+              "sourceNumber": 2,
+              "prompt": "2. bike / kite",
+              "type": "choice",
+              "kind": "picture",
+              "visual": "assets/items/ff1-2-1-q1.webp",
+              "options": [
+                "bike",
+                "kite"
+              ],
+              "answers": [
+                "kite"
+              ],
+              "explanation": "Đáp án là “kite”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u02e1q2",
+              "order": 2,
+              "unit": 2,
+              "sourceNumber": 3,
+              "prompt": "3. car / hat",
+              "type": "choice",
+              "kind": "picture",
+              "visual": "assets/items/ff1-2-1-q2.webp",
+              "options": [
+                "car",
+                "hat"
+              ],
+              "answers": [
+                "car"
+              ],
+              "explanation": "Đáp án là “car”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u02e1q3",
+              "order": 3,
+              "unit": 2,
+              "sourceNumber": 4,
+              "prompt": "4. doll / ball",
+              "type": "choice",
+              "kind": "picture",
+              "visual": "assets/items/ff1-2-1-q3.webp",
+              "options": [
+                "doll",
+                "ball"
+              ],
+              "answers": [
+                "ball"
+              ],
+              "explanation": "Đáp án là “ball”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u02e1q4",
+              "order": 4,
+              "unit": 2,
+              "sourceNumber": 5,
+              "prompt": "5. train / puzzle",
+              "type": "choice",
+              "kind": "picture",
+              "visual": "assets/items/ff1-2-1-q4.webp",
+              "options": [
+                "train",
+                "puzzle"
+              ],
+              "answers": [
+                "puzzle"
+              ],
+              "explanation": "Đáp án là “puzzle”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "title": "Write and match.",
+          "wordBank": null,
+          "reference": null,
+          "items": [
+            {
+              "id": "u02e2q1",
+              "order": 5,
+              "unit": 2,
+              "sourceNumber": 2,
+              "prompt": "2. Unscramble the letters: o l d l",
+              "type": "input",
+              "kind": "standard",
+              "visual": null,
+              "options": [],
+              "answers": [
+                "doll"
+              ],
+              "explanation": "Đáp án là “doll”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u02e2q2",
+              "order": 6,
+              "unit": 2,
+              "sourceNumber": 3,
+              "prompt": "3. Unscramble the letters: z z l u p e",
+              "type": "input",
+              "kind": "standard",
+              "visual": null,
+              "options": [],
+              "answers": [
+                "puzzle"
+              ],
+              "explanation": "Đáp án là “puzzle”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u02e2q3",
+              "order": 7,
+              "unit": 2,
+              "sourceNumber": 4,
+              "prompt": "4. Unscramble the letters: d t e d y",
+              "type": "input",
+              "kind": "standard",
+              "visual": null,
+              "options": [],
+              "answers": [
+                "teddy"
+              ],
+              "explanation": "Đáp án là “teddy”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u02e2q4",
+              "order": 8,
+              "unit": 2,
+              "sourceNumber": 5,
+              "prompt": "5. Unscramble the letters: i k e b",
+              "type": "input",
+              "kind": "standard",
+              "visual": null,
+              "options": [],
+              "answers": [
+                "bike"
+              ],
+              "explanation": "Đáp án là “bike”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "title": "Order the words.",
+          "wordBank": null,
+          "reference": null,
+          "items": [
+            {
+              "id": "u02e3q1",
+              "order": 9,
+              "unit": 2,
+              "sourceNumber": 2,
+              "prompt": "2. it / Yes, / is.",
+              "type": "input",
+              "kind": "standard",
+              "visual": null,
+              "options": [],
+              "answers": [
+                "Yes, it is"
+              ],
+              "explanation": "Câu đúng là “Yes, it is”. Con giữ đủ các từ và kiểm tra lại vị trí chủ ngữ, động từ và dấu câu."
+            },
+            {
+              "id": "u02e3q2",
+              "order": 10,
+              "unit": 2,
+              "sourceNumber": 3,
+              "prompt": "3. my / This / kite. / is",
+              "type": "input",
+              "kind": "standard",
+              "visual": null,
+              "options": [],
+              "answers": [
+                "This is my kite"
+              ],
+              "explanation": "Câu đúng là “This is my kite”. Con giữ đủ các từ và kiểm tra lại vị trí chủ ngữ, động từ và dấu câu."
+            },
+            {
+              "id": "u02e3q3",
+              "order": 11,
+              "unit": 2,
+              "sourceNumber": 4,
+              "prompt": "4. your / Is / this / train?",
+              "type": "input",
+              "kind": "standard",
+              "visual": null,
+              "options": [],
+              "answers": [
+                "Is this your train"
+              ],
+              "explanation": "Câu đúng là “Is this your train”. Con giữ đủ các từ và kiểm tra lại vị trí chủ ngữ, động từ và dấu câu."
+            },
+            {
+              "id": "u02e3q4",
+              "order": 12,
+              "unit": 2,
+              "sourceNumber": 5,
+              "prompt": "5. isn't. / it / No,",
+              "type": "input",
+              "kind": "standard",
+              "visual": null,
+              "options": [],
+              "answers": [
+                "No, it isn't"
+              ],
+              "explanation": "Câu đúng là “No, it isn't”. Con giữ đủ các từ và kiểm tra lại vị trí chủ ngữ, động từ và dấu câu."
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "title": "Complete the answers.",
+          "wordBank": null,
+          "reference": null,
+          "items": [
+            {
+              "id": "u02e4q1",
+              "order": 13,
+              "unit": 2,
+              "sourceNumber": 2,
+              "prompt": "2. Is this your doll? No, it ____.",
+              "type": "input",
+              "kind": "standard",
+              "visual": null,
+              "options": [],
+              "answers": [
+                "isn't"
+              ],
+              "explanation": "Đáp án là “isn't”. Con nhìn chủ ngữ và số ít/số nhiều để chọn đúng dạng của động từ be."
+            },
+            {
+              "id": "u02e4q2",
+              "order": 14,
+              "unit": 2,
+              "sourceNumber": 3,
+              "prompt": "3. Is this your hat? No, _____.",
+              "type": "input",
+              "kind": "standard",
+              "visual": null,
+              "options": [],
+              "answers": [
+                "it isn't"
+              ],
+              "explanation": "Đáp án là “it isn't”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u02e4q3",
+              "order": 15,
+              "unit": 2,
+              "sourceNumber": 4,
+              "prompt": "4. Is this your train? Yes, _____.",
+              "type": "input",
+              "kind": "standard",
+              "visual": null,
+              "options": [],
+              "answers": [
+                "it is"
+              ],
+              "explanation": "Đáp án là “it is”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "book": "Family and Friends 1",
+      "short": "FF1",
+      "unit": 3,
+      "total": 15,
+      "exercises": [
+        {
+          "number": 1,
+          "title": "Match.",
+          "wordBank": null,
+          "reference": null,
+          "items": [
+            {
+              "id": "u03e1q1",
+              "order": 1,
+              "unit": 3,
+              "sourceNumber": 2,
+              "prompt": "2. Choose the correct body part.",
+              "type": "choice",
+              "kind": "picture",
+              "visual": "assets/items/ff1-3-1-q1.webp",
+              "options": [
+                "eyes",
+                "ears",
+                "nose",
+                "arms"
+              ],
+              "answers": [
+                "eyes"
+              ],
+              "explanation": "Đáp án là “eyes”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u03e1q2",
+              "order": 2,
+              "unit": 3,
+              "sourceNumber": 3,
+              "prompt": "3. Choose the correct body part.",
+              "type": "choice",
+              "kind": "picture",
+              "visual": "assets/items/ff1-3-1-q2.webp",
+              "options": [
+                "eyes",
+                "ears",
+                "nose",
+                "arms"
+              ],
+              "answers": [
+                "ears"
+              ],
+              "explanation": "Đáp án là “ears”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u03e1q3",
+              "order": 3,
+              "unit": 3,
+              "sourceNumber": 4,
+              "prompt": "4. Choose the correct body part.",
+              "type": "choice",
+              "kind": "picture",
+              "visual": "assets/items/ff1-3-1-q3.webp",
+              "options": [
+                "eyes",
+                "ears",
+                "nose",
+                "hands"
+              ],
+              "answers": [
+                "nose"
+              ],
+              "explanation": "Đáp án là “nose”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u03e1q4",
+              "order": 4,
+              "unit": 3,
+              "sourceNumber": 5,
+              "prompt": "5. Choose the correct body part.",
+              "type": "choice",
+              "kind": "picture",
+              "visual": "assets/items/ff1-3-1-q4.webp",
+              "options": [
+                "legs",
+                "arms",
+                "hands",
+                "fingers"
+              ],
+              "answers": [
+                "legs"
+              ],
+              "explanation": "Đáp án là “legs”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u03e1q5",
+              "order": 5,
+              "unit": 3,
+              "sourceNumber": 6,
+              "prompt": "6. Choose the correct body part.",
+              "type": "choice",
+              "kind": "picture",
+              "visual": "assets/items/ff1-3-1-q5.webp",
+              "options": [
+                "legs",
+                "arms",
+                "hands",
+                "fingers"
+              ],
+              "answers": [
+                "arms"
+              ],
+              "explanation": "Đáp án là “arms”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u03e1q6",
+              "order": 6,
+              "unit": 3,
+              "sourceNumber": 7,
+              "prompt": "7. Choose the correct body part.",
+              "type": "choice",
+              "kind": "picture",
+              "visual": "assets/items/ff1-3-1-q6.webp",
+              "options": [
+                "legs",
+                "arms",
+                "hands",
+                "fingers"
+              ],
+              "answers": [
+                "hands"
+              ],
+              "explanation": "Đáp án là “hands”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u03e1q7",
+              "order": 7,
+              "unit": 3,
+              "sourceNumber": 8,
+              "prompt": "8. Choose the correct body part.",
+              "type": "choice",
+              "kind": "picture",
+              "visual": "assets/items/ff1-3-1-q7.webp",
+              "options": [
+                "legs",
+                "arms",
+                "hands",
+                "fingers"
+              ],
+              "answers": [
+                "fingers"
+              ],
+              "explanation": "Đáp án là “fingers”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "title": "Circle the correct word.",
+          "wordBank": null,
+          "reference": null,
+          "items": [
+            {
+              "id": "u03e2q1",
+              "order": 8,
+              "unit": 3,
+              "sourceNumber": 2,
+              "prompt": "2. three lion / lions",
+              "type": "choice",
+              "kind": "standard",
+              "visual": null,
+              "options": [
+                "lion",
+                "lions"
+              ],
+              "answers": [
+                "lions"
+              ],
+              "explanation": "Đáp án là “lions”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u03e2q2",
+              "order": 9,
+              "unit": 3,
+              "sourceNumber": 3,
+              "prompt": "3. two eye / eyes",
+              "type": "choice",
+              "kind": "standard",
+              "visual": null,
+              "options": [
+                "eye",
+                "eyes"
+              ],
+              "answers": [
+                "eyes"
+              ],
+              "explanation": "Đáp án là “eyes”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u03e2q3",
+              "order": 10,
+              "unit": 3,
+              "sourceNumber": 4,
+              "prompt": "4. four kite / kites",
+              "type": "choice",
+              "kind": "standard",
+              "visual": null,
+              "options": [
+                "kite",
+                "kites"
+              ],
+              "answers": [
+                "kites"
+              ],
+              "explanation": "Đáp án là “kites”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u03e2q4",
+              "order": 11,
+              "unit": 3,
+              "sourceNumber": 5,
+              "prompt": "5. one faces / face",
+              "type": "choice",
+              "kind": "standard",
+              "visual": null,
+              "options": [
+                "faces",
+                "face"
+              ],
+              "answers": [
+                "face"
+              ],
+              "explanation": "Đáp án là “face”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            },
+            {
+              "id": "u03e2q5",
+              "order": 12,
+              "unit": 3,
+              "sourceNumber": 6,
+              "prompt": "6. five leg / legs",
+              "type": "choice",
+              "kind": "standard",
+              "visual": null,
+              "options": [
+                "leg",
+                "legs"
+              ],
+              "answers": [
+                "legs"
+              ],
+              "explanation": "Đáp án là “legs”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "title": "Tick the correct sentence.",
+          "wordBank": null,
+          "reference": null,
+          "items": [
+            {
+              "id": "u03e3q1",
+              "order": 13,
+              "unit": 3,
+              "sourceNumber": 2,
+              "prompt": "2. Choose the sentence that matches the picture.",
+              "type": "choice",
+              "kind": "picture",
+              "visual": "assets/items/ff1-3-3-q1.webp",
+              "options": [
+                "This is my eye.",
+                "These are my eyes."
+              ],
+              "answers": [
+                "These are my eyes"
+              ],
+              "explanation": "Câu hoàn chỉnh là “These are my eyes”. Con đọc lại cả câu để kiểm tra ngữ pháp và trật tự từ."
+            },
+            {
+              "id": "u03e3q2",
+              "order": 14,
+              "unit": 3,
+              "sourceNumber": 3,
+              "prompt": "3. Choose the sentence that matches the picture.",
+              "type": "choice",
+              "kind": "picture",
+              "visual": "assets/items/ff1-3-3-q2.webp",
+              "options": [
+                "This is my finger.",
+                "These are my fingers."
+              ],
+              "answers": [
+                "These are my fingers"
+              ],
+              "explanation": "Câu hoàn chỉnh là “These are my fingers”. Con đọc lại cả câu để kiểm tra ngữ pháp và trật tự từ."
+            },
+            {
+              "id": "u03e3q3",
+              "order": 15,
+              "unit": 3,
+              "sourceNumber": 4,
+              "prompt": "4. Choose the sentence that matches the picture.",
+              "type": "choice",
+              "kind": "picture",
+              "visual": "assets/items/ff1-3-3-q3.webp",
+              "options": [
+                "These are my faces.",
+                "This is my face."
+              ],
+              "answers": [
+                "This is my face"
+              ],
+              "explanation": "Câu hoàn chỉnh là “This is my face”. Con đọc lại cả câu để kiểm tra ngữ pháp và trật tự từ."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
