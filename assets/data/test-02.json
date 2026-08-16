@@ -82,7 +82,7 @@
                 "man",
                 "policeman"
               ],
-              "explanation": "Đáp án là “man”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“man” nghĩa là “một người đàn ông”. Mẫu “police ______” còn thiếu m-a-n; điền đúng sẽ được m-a-n."
             },
             {
               "id": "u04e1q2",
@@ -98,7 +98,7 @@
                 "wife",
                 "housewife"
               ],
-              "explanation": "Đáp án là “wife”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Từ đúng là “wife”. Mẫu “house ______” còn thiếu w-i-f; điền đúng sẽ được w-i-f-e."
             },
             {
               "id": "u04e1q3",
@@ -114,7 +114,7 @@
                 "mer",
                 "farmer"
               ],
-              "explanation": "Đáp án là “mer”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Từ đúng là “mer”. Mẫu “far ______” còn thiếu m-e; điền đúng sẽ được m-e-r."
             },
             {
               "id": "u04e1q4",
@@ -130,7 +130,7 @@
                 "man",
                 "fireman"
               ],
-              "explanation": "Đáp án là “man”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“man” nghĩa là “một người đàn ông”. Mẫu “fire ______” còn thiếu m-a-n; điền đúng sẽ được m-a-n."
             },
             {
               "id": "u04e1q5",
@@ -146,7 +146,7 @@
                 "pil",
                 "pupil"
               ],
-              "explanation": "Đáp án là “pil”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Từ đúng là “pil”. Mẫu “pu ______” còn thiếu i-l; điền đúng sẽ được p-i-l."
             }
           ]
         },
@@ -169,7 +169,7 @@
               "answers": [
                 "doctor"
               ],
-              "explanation": "Đáp án là “doctor”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Quan sát đúng người, vật hoặc hành động trong hình rồi đọc cả câu. Phần còn thiếu phải là “doctor” để câu “d c o t o r” có nghĩa."
             },
             {
               "id": "u04e2q2",
@@ -184,7 +184,7 @@
               "answers": [
                 "pupil"
               ],
-              "explanation": "Đáp án là “pupil”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Quan sát đúng người, vật hoặc hành động trong hình rồi đọc cả câu. Phần còn thiếu phải là “pupil” để câu “p l u p i” có nghĩa."
             },
             {
               "id": "u04e2q3",
@@ -199,7 +199,7 @@
               "answers": [
                 "nurse"
               ],
-              "explanation": "Đáp án là “nurse”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Quan sát đúng người, vật hoặc hành động trong hình rồi đọc cả câu. Phần còn thiếu phải là “nurse” để câu “n u s r e” có nghĩa."
             },
             {
               "id": "u04e2q4",
@@ -214,7 +214,7 @@
               "answers": [
                 "pilot"
               ],
-              "explanation": "Đáp án là “pilot”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Quan sát đúng người, vật hoặc hành động trong hình rồi đọc cả câu. Phần còn thiếu phải là “pilot” để câu “l o t p i” có nghĩa."
             }
           ]
         },
@@ -237,7 +237,7 @@
               "answers": [
                 "Is she a nurse"
               ],
-              "explanation": "Câu đúng là “Is she a nurse”. Con giữ đủ các từ và kiểm tra lại vị trí chủ ngữ, động từ và dấu câu."
+              "explanation": "Câu hỏi Yes/No đưa Is/Are/Has/Have/Do/Does/Can lên đầu, rồi đến chủ ngữ. Vì vậy thứ tự đúng là “Is she a nurse”."
             },
             {
               "id": "u04e3q2",
@@ -252,7 +252,7 @@
               "answers": [
                 "Is she a housewife"
               ],
-              "explanation": "Câu đúng là “Is she a housewife”. Con giữ đủ các từ và kiểm tra lại vị trí chủ ngữ, động từ và dấu câu."
+              "explanation": "Câu hỏi Yes/No đưa Is/Are/Has/Have/Do/Does/Can lên đầu, rồi đến chủ ngữ. Vì vậy thứ tự đúng là “Is she a housewife”."
             },
             {
               "id": "u04e3q3",
@@ -267,7 +267,7 @@
               "answers": [
                 "She's a teacher"
               ],
-              "explanation": "Câu đúng là “She's a teacher”. Con giữ đủ các từ và kiểm tra lại vị trí chủ ngữ, động từ và dấu câu."
+              "explanation": "Câu kể theo trật tự: chủ ngữ → động từ → phần còn lại. Vì vậy thứ tự đúng là “She's a teacher”."
             }
           ]
         },
@@ -291,7 +291,7 @@
                 "he he",
                 "Is he a fireman Yes he is"
               ],
-              "explanation": "Đáp án là “he he”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Quan sát đúng người, vật hoặc hành động trong hình rồi đọc cả câu. Phần còn thiếu phải là “he he” để câu “Is he he a fireman? Yes, he he is” có nghĩa."
             },
             {
               "id": "u04e4q2",
@@ -307,7 +307,7 @@
                 "she she",
                 "Is she a teacher Yes she is"
               ],
-              "explanation": "Đáp án là “she she”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Quan sát đúng người, vật hoặc hành động trong hình rồi đọc cả câu. Phần còn thiếu phải là “she she” để câu “Is she she a teacher? Yes, she she is” có nghĩa."
             },
             {
               "id": "u04e4q3",
@@ -323,7 +323,7 @@
                 "he he",
                 "Is he a policeman Yes he is"
               ],
-              "explanation": "Đáp án là “he he”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Quan sát đúng người, vật hoặc hành động trong hình rồi đọc cả câu. Phần còn thiếu phải là “he he” để câu “Is he he a policeman? Yes, he he is” có nghĩa."
             }
           ]
         }
@@ -357,7 +357,7 @@
               "answers": [
                 "yes"
               ],
-              "explanation": "Đáp án là yes. Con cần nhìn đúng chi tiết trong hình rồi mới chọn Yes hoặc No."
+              "explanation": "Từ hoặc câu trong đề đúng với hình, nên con chọn “yes”. Con nhìn lại đúng chi tiết được nêu trong câu “tree”."
             },
             {
               "id": "u05e1q2",
@@ -375,7 +375,7 @@
               "answers": [
                 "yes"
               ],
-              "explanation": "Đáp án là yes. Con cần nhìn đúng chi tiết trong hình rồi mới chọn Yes hoặc No."
+              "explanation": "Từ hoặc câu trong đề đúng với hình, nên con chọn “yes”. Con nhìn lại đúng chi tiết được nêu trong câu “frisbee”."
             },
             {
               "id": "u05e1q3",
@@ -393,7 +393,7 @@
               "answers": [
                 "no"
               ],
-              "explanation": "Đáp án là no. Con cần nhìn đúng chi tiết trong hình rồi mới chọn Yes hoặc No."
+              "explanation": "Từ hoặc câu trong đề không đúng với hình, nên con chọn “no”. Con nhìn lại đúng chi tiết được nêu trong câu “sofa”."
             },
             {
               "id": "u05e1q4",
@@ -411,7 +411,7 @@
               "answers": [
                 "yes"
               ],
-              "explanation": "Đáp án là yes. Con cần nhìn đúng chi tiết trong hình rồi mới chọn Yes hoặc No."
+              "explanation": "Từ hoặc câu trong đề đúng với hình, nên con chọn “yes”. Con nhìn lại đúng chi tiết được nêu trong câu “ice cream”."
             }
           ]
         },
@@ -434,7 +434,7 @@
               "answers": [
                 "slide"
               ],
-              "explanation": "Đáp án là “slide”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Quan sát đúng người, vật hoặc hành động trong hình rồi đọc cả câu. Phần còn thiếu phải là “slide” để câu “s slide i slide e” có nghĩa."
             },
             {
               "id": "u05e2q2",
@@ -449,7 +449,7 @@
               "answers": [
                 "pool"
               ],
-              "explanation": "Đáp án là “pool”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“pool” nghĩa là “bể bơi”. Mẫu “p _ _ l” còn thiếu o-o; điền đúng sẽ được p-o-o-l."
             },
             {
               "id": "u05e2q3",
@@ -464,7 +464,7 @@
               "answers": [
                 "net"
               ],
-              "explanation": "Đáp án là “net”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“net” nghĩa là “lưới”. Mẫu “n _ _” còn thiếu e-t; điền đúng sẽ được n-e-t."
             },
             {
               "id": "u05e2q4",
@@ -479,7 +479,7 @@
               "answers": [
                 "seesaw"
               ],
-              "explanation": "Đáp án là “seesaw”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“seesaw” nghĩa là “bập bênh”. Mẫu “s _ _ s _ _” còn thiếu e-e-a-w; điền đúng sẽ được s-e-e-s-a-w."
             }
           ]
         },
@@ -506,7 +506,7 @@
               "answers": [
                 "on"
               ],
-              "explanation": "Đáp án là “on”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“on” nghĩa là “ở trên và chạm vào bề mặt”. Vị trí trong hình khớp với câu “The umbrella is on the seesaw”."
             },
             {
               "id": "u05e3q2",
@@ -521,7 +521,7 @@
               "answers": [
                 "in"
               ],
-              "explanation": "Đáp án là “in”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“in” nghĩa là “ở bên trong”. Vị trí trong hình khớp với câu “The teddy is in the pool”."
             },
             {
               "id": "u05e3q3",
@@ -536,7 +536,7 @@
               "answers": [
                 "on"
               ],
-              "explanation": "Đáp án là “on”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“on” nghĩa là “ở trên và chạm vào bề mặt”. Vị trí trong hình khớp với câu “The girl is on the slide”."
             },
             {
               "id": "u05e3q4",
@@ -551,7 +551,7 @@
               "answers": [
                 "under"
               ],
-              "explanation": "Đáp án là “under”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“under” nghĩa là “ở phía dưới”. Vị trí trong hình khớp với câu “The car is under the seesaw”."
             }
           ]
         },
@@ -575,7 +575,7 @@
                 "where's it's",
                 "Where's the book It's in the bag"
               ],
-              "explanation": "Đáp án là “where's it's”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Muốn hỏi vị trí của một đồ vật, con dùng Where's + tên đồ vật. Khi trả lời, con dùng It's + giới từ chỉ vị trí. Vì vậy hai phần cần điền là “Where's” và “It's”."
             },
             {
               "id": "u05e4q2",
@@ -591,7 +591,7 @@
                 "where's it's",
                 "Where's the doll It's in the pool"
               ],
-              "explanation": "Đáp án là “where's it's”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Muốn hỏi vị trí của một đồ vật, con dùng Where's + tên đồ vật. Khi trả lời, con dùng It's + giới từ chỉ vị trí. Vì vậy hai phần cần điền là “Where's” và “It's”."
             },
             {
               "id": "u05e4q3",
@@ -607,7 +607,7 @@
                 "where's it's",
                 "Where's the apple It's in the bag"
               ],
-              "explanation": "Đáp án là “where's it's”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Muốn hỏi vị trí của một đồ vật, con dùng Where's + tên đồ vật. Khi trả lời, con dùng It's + giới từ chỉ vị trí. Vì vậy hai phần cần điền là “Where's” và “It's”."
             }
           ]
         }
@@ -641,7 +641,7 @@
               "answers": [
                 "aunt"
               ],
-              "explanation": "Đáp án là “aunt”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Hình thể hiện “cô hoặc dì”, nên chọn “aunt”, không chọn “uncle” (“chú hoặc cậu”)."
             },
             {
               "id": "u06e1q2",
@@ -659,7 +659,7 @@
               "answers": [
                 "sister"
               ],
-              "explanation": "Đáp án là “sister”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Hình thể hiện “chị hoặc em gái”, nên chọn “sister”, không chọn “mum”."
             },
             {
               "id": "u06e1q3",
@@ -677,7 +677,7 @@
               "answers": [
                 "grandpa"
               ],
-              "explanation": "Đáp án là “grandpa”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Hình thể hiện “ông”, nên chọn “grandpa”, không chọn “grandma” (“bà”)."
             }
           ]
         },
@@ -700,7 +700,7 @@
               "answers": [
                 "grandpa"
               ],
-              "explanation": "Đáp án là “grandpa”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“grandpa” nghĩa là “ông”. Mẫu “grand ______” còn thiếu p-a; điền đúng sẽ được g-r-a-n-d-p-a."
             },
             {
               "id": "u06e2q2",
@@ -715,7 +715,7 @@
               "answers": [
                 "cousin"
               ],
-              "explanation": "Đáp án là “cousin”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“cousin” nghĩa là “anh, chị hoặc em họ”. Mẫu “cou ______” còn thiếu s-i-n; điền đúng sẽ được c-o-u-s-i-n."
             },
             {
               "id": "u06e2q3",
@@ -730,7 +730,7 @@
               "answers": [
                 "sister"
               ],
-              "explanation": "Đáp án là “sister”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“sister” nghĩa là “chị hoặc em gái”. Mẫu “sis ______” còn thiếu t-e-r; điền đúng sẽ được s-i-s-t-e-r."
             },
             {
               "id": "u06e2q4",
@@ -745,7 +745,7 @@
               "answers": [
                 "brother"
               ],
-              "explanation": "Đáp án là “brother”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“brother” nghĩa là “anh hoặc em trai”. Mẫu “bro ______” còn thiếu t-h-e-r; điền đúng sẽ được b-r-o-t-h-e-r."
             },
             {
               "id": "u06e2q5",
@@ -760,7 +760,7 @@
               "answers": [
                 "aunt"
               ],
-              "explanation": "Đáp án là “aunt”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“aunt” nghĩa là “cô hoặc dì”. Mẫu “au ______” còn thiếu n-t; điền đúng sẽ được a-u-n-t."
             }
           ]
         },
@@ -786,7 +786,7 @@
               "answers": [
                 "This is my sister's bike"
               ],
-              "explanation": "Câu hoàn chỉnh là “This is my sister's bike”. Con đọc lại cả câu để kiểm tra ngữ pháp và trật tự từ."
+              "explanation": "“This is my sister's bike” dùng cho một đồ vật ở gần. Vì vậy câu đúng là “Choose the sentence that matches the picture”."
             },
             {
               "id": "u06e3q2",
@@ -804,7 +804,7 @@
               "answers": [
                 "It's Grandma's umbrella"
               ],
-              "explanation": "Câu hoàn chỉnh là “It's Grandma's umbrella”. Con đọc lại cả câu để kiểm tra ngữ pháp và trật tự từ."
+              "explanation": "Quan sát đúng người, vật hoặc hành động trong hình rồi đọc cả câu. Phần còn thiếu phải là “It's Grandma's umbrella” để câu “Choose the sentence that matches the picture” có nghĩa."
             },
             {
               "id": "u06e3q3",
@@ -822,7 +822,7 @@
               "answers": [
                 "This is my uncle's hat"
               ],
-              "explanation": "Câu hoàn chỉnh là “This is my uncle's hat”. Con đọc lại cả câu để kiểm tra ngữ pháp và trật tự từ."
+              "explanation": "“This is my uncle's hat” dùng cho một đồ vật ở gần. Vì vậy câu đúng là “Choose the sentence that matches the picture”."
             }
           ]
         },
@@ -850,7 +850,7 @@
               "answers": [
                 "Jenny's"
               ],
-              "explanation": "Đáp án là “Jenny's”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Thêm 's vào tên Jenny để nói đồ vật thuộc về bạn ấy. Vì vậy điền “Jenny's” trước tên đồ vật."
             },
             {
               "id": "u06e4q2",
@@ -865,7 +865,7 @@
               "answers": [
                 "Frank's"
               ],
-              "explanation": "Đáp án là “Frank's”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Thêm 's vào tên Frank để nói đồ vật thuộc về bạn ấy. Vì vậy điền “Frank's” trước tên đồ vật."
             },
             {
               "id": "u06e4q3",
@@ -880,7 +880,7 @@
               "answers": [
                 "Bob's"
               ],
-              "explanation": "Đáp án là “Bob's”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Thêm 's vào tên Bob để nói đồ vật thuộc về bạn ấy. Vì vậy điền “Bob's” trước tên đồ vật."
             },
             {
               "id": "u06e4q4",
@@ -895,7 +895,7 @@
               "answers": [
                 "Tom's"
               ],
-              "explanation": "Đáp án là “Tom's”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Thêm 's vào tên Tom để nói đồ vật thuộc về bạn ấy. Vì vậy điền “Tom's” trước tên đồ vật."
             }
           ]
         }

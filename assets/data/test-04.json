@@ -77,7 +77,7 @@
               "answers": [
                 "no"
               ],
-              "explanation": "Đáp án là no. Con cần nhìn đúng chi tiết trong hình rồi mới chọn Yes hoặc No."
+              "explanation": "Từ hoặc câu trong đề không đúng với hình, nên con chọn “no”. Con nhìn lại đúng chi tiết được nêu trong câu “straight hair”."
             },
             {
               "id": "u10e1q2",
@@ -95,7 +95,7 @@
               "answers": [
                 "yes"
               ],
-              "explanation": "Đáp án là yes. Con cần nhìn đúng chi tiết trong hình rồi mới chọn Yes hoặc No."
+              "explanation": "Từ hoặc câu trong đề đúng với hình, nên con chọn “yes”. Con nhìn lại đúng chi tiết được nêu trong câu “long hair”."
             },
             {
               "id": "u10e1q3",
@@ -113,7 +113,7 @@
               "answers": [
                 "no"
               ],
-              "explanation": "Đáp án là no. Con cần nhìn đúng chi tiết trong hình rồi mới chọn Yes hoặc No."
+              "explanation": "Từ hoặc câu trong đề không đúng với hình, nên con chọn “no”. Con nhìn lại đúng chi tiết được nêu trong câu “blond hair”."
             },
             {
               "id": "u10e1q4",
@@ -131,7 +131,7 @@
               "answers": [
                 "yes"
               ],
-              "explanation": "Đáp án là yes. Con cần nhìn đúng chi tiết trong hình rồi mới chọn Yes hoặc No."
+              "explanation": "Từ hoặc câu trong đề đúng với hình, nên con chọn “yes”. Con nhìn lại đúng chi tiết được nêu trong câu “short hair”."
             }
           ]
         },
@@ -154,7 +154,7 @@
               "answers": [
                 "square"
               ],
-              "explanation": "Đáp án là “square”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Điền “square” để câu đúng cả nghĩa và ngữ pháp. Con đọc lại câu hoàn chỉnh: “q s u a e r”."
             },
             {
               "id": "u10e2q2",
@@ -169,7 +169,7 @@
               "answers": [
                 "rectangle"
               ],
-              "explanation": "Đáp án là “rectangle”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Điền “rectangle” để câu đúng cả nghĩa và ngữ pháp. Con đọc lại câu hoàn chỉnh: “t a n r e g c l e”."
             },
             {
               "id": "u10e2q3",
@@ -184,7 +184,7 @@
               "answers": [
                 "triangle"
               ],
-              "explanation": "Đáp án là “triangle”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Điền “triangle” để câu đúng cả nghĩa và ngữ pháp. Con đọc lại câu hoàn chỉnh: “t r n l g a i e”."
             }
           ]
         },
@@ -208,7 +208,7 @@
                 "hasn't got It's got",
                 "It hasn't got two sides It's got three sides"
               ],
-              "explanation": "Câu hoàn chỉnh là “hasn't got It's got”. Con đọc lại cả câu để kiểm tra ngữ pháp và trật tự từ."
+              "explanation": "Câu đầu phủ định nên dùng hasn't got; câu sau khẳng định nên dùng He's/She's/It's got. Hai ý đối lập giúp con chọn đúng hai cụm trong đáp án “hasn't got It's got”."
             },
             {
               "id": "u10e3q2",
@@ -224,7 +224,7 @@
                 "hasn't got He's got",
                 "He hasn't got blond hair He's got black hair"
               ],
-              "explanation": "Câu hoàn chỉnh là “hasn't got He's got”. Con đọc lại cả câu để kiểm tra ngữ pháp và trật tự từ."
+              "explanation": "Câu đầu phủ định nên dùng hasn't got; câu sau khẳng định nên dùng He's/She's/It's got. Hai ý đối lập giúp con chọn đúng hai cụm trong đáp án “hasn't got He's got”."
             },
             {
               "id": "u10e3q3",
@@ -240,7 +240,7 @@
                 "hasn't got It's got",
                 "It hasn't got three sides It's got four sides"
               ],
-              "explanation": "Câu hoàn chỉnh là “hasn't got It's got”. Con đọc lại cả câu để kiểm tra ngữ pháp và trật tự từ."
+              "explanation": "Câu đầu phủ định nên dùng hasn't got; câu sau khẳng định nên dùng He's/She's/It's got. Hai ý đối lập giúp con chọn đúng hai cụm trong đáp án “hasn't got It's got”."
             }
           ]
         },
@@ -288,7 +288,7 @@
               "answers": [
                 "d"
               ],
-              "explanation": "Chọn phương án D. Con đối chiếu ý số tương ứng với các phương án trong phần đề bài."
+              "explanation": "“She's got blue eyes” cùng nghĩa với “She has got blue eyes” vì dạng viết tắt không đổi nghĩa: It's = It is, She's = She is/She has, He's = He is/He has, We're = We are, They're = They are, hasn't = has not."
             },
             {
               "id": "u10e4q2",
@@ -328,7 +328,7 @@
               "answers": [
                 "a"
               ],
-              "explanation": "Chọn phương án A. Con đối chiếu ý số tương ứng với các phương án trong phần đề bài."
+              "explanation": "“He hasn't got straight hair” cùng nghĩa với “He has not got straight hair” vì dạng viết tắt không đổi nghĩa: It's = It is, She's = She is/She has, He's = He is/He has, We're = We are, They're = They are, hasn't = has not."
             },
             {
               "id": "u10e4q3",
@@ -368,7 +368,7 @@
               "answers": [
                 "f"
               ],
-              "explanation": "Chọn phương án F. Con đối chiếu ý số tương ứng với các phương án trong phần đề bài."
+              "explanation": "Ghép “It has got three sides” với “It's got three sides” để tạo thành một câu hoặc một cụm từ có nghĩa hoàn chỉnh. Vì vậy chọn phương án F."
             },
             {
               "id": "u10e4q4",
@@ -408,7 +408,7 @@
               "answers": [
                 "b"
               ],
-              "explanation": "Chọn phương án B. Con đối chiếu ý số tương ứng với các phương án trong phần đề bài."
+              "explanation": "“He hasn't got blue eyes” cùng nghĩa với “He has not got blue eyes” vì dạng viết tắt không đổi nghĩa: It's = It is, She's = She is/She has, He's = He is/He has, We're = We are, They're = They are, hasn't = has not."
             },
             {
               "id": "u10e4q5",
@@ -448,7 +448,7 @@
               "answers": [
                 "e"
               ],
-              "explanation": "Chọn phương án E. Con đối chiếu ý số tương ứng với các phương án trong phần đề bài."
+              "explanation": "“She hasn't got brown hair” cùng nghĩa với “She has not got brown hair” vì dạng viết tắt không đổi nghĩa: It's = It is, She's = She is/She has, He's = He is/He has, We're = We are, They're = They are, hasn't = has not."
             }
           ]
         }
@@ -479,7 +479,7 @@
               "answers": [
                 "parrot"
               ],
-              "explanation": "Đáp án là “parrot”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Sắp xếp các chữ r-r-o-t-p-a thành “parrot”, nghĩa là “con vẹt”. Thứ tự đúng là p-a-r-r-o-t."
             },
             {
               "id": "u11e1q2",
@@ -494,7 +494,7 @@
               "answers": [
                 "lion"
               ],
-              "explanation": "Đáp án là “lion”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Sắp xếp các chữ n-i-l-o thành “lion”, nghĩa là “con sư tử”. Thứ tự đúng là l-i-o-n."
             },
             {
               "id": "u11e1q3",
@@ -509,7 +509,7 @@
               "answers": [
                 "zebra"
               ],
-              "explanation": "Đáp án là “zebra”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Sắp xếp các chữ a-b-r-z-e thành “zebra”, nghĩa là “ngựa vằn”. Thứ tự đúng là z-e-b-r-a."
             },
             {
               "id": "u11e1q4",
@@ -524,7 +524,7 @@
               "answers": [
                 "goat"
               ],
-              "explanation": "Đáp án là “goat”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Sắp xếp các chữ o-a-g-t thành “goat”, nghĩa là “con dê”. Thứ tự đúng là g-o-a-t."
             }
           ]
         },
@@ -547,7 +547,7 @@
               "answers": [
                 "tiger"
               ],
-              "explanation": "Đáp án là “tiger”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“tiger” nghĩa là “con hổ”. Đây là hình khác nhóm so với các hình còn lại, nên con viết “tiger”."
             },
             {
               "id": "u11e2q2",
@@ -562,7 +562,7 @@
               "answers": [
                 "giraffe"
               ],
-              "explanation": "Đáp án là “giraffe”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“giraffe” nghĩa là “hươu cao cổ”. Đây là hình khác nhóm so với các hình còn lại, nên con viết “giraffe”."
             },
             {
               "id": "u11e2q3",
@@ -577,7 +577,7 @@
               "answers": [
                 "snake"
               ],
-              "explanation": "Đáp án là “snake”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“snake” nghĩa là “con rắn”. Đây là hình khác nhóm so với các hình còn lại, nên con viết “snake”."
             }
           ]
         },
@@ -603,7 +603,7 @@
               "answers": [
                 "They're big"
               ],
-              "explanation": "Đáp án là “They're big”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Quan sát đúng người, vật hoặc hành động trong hình rồi đọc cả câu. Phần còn thiếu phải là “They're big” để câu “Choose the correct sentence” có nghĩa."
             },
             {
               "id": "u11e3q2",
@@ -621,7 +621,7 @@
               "answers": [
                 "It's big"
               ],
-              "explanation": "Đáp án là “It's big”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Quan sát đúng người, vật hoặc hành động trong hình rồi đọc cả câu. Phần còn thiếu phải là “It's big” để câu “Choose the correct sentence” có nghĩa."
             },
             {
               "id": "u11e3q3",
@@ -639,7 +639,7 @@
               "answers": [
                 "She's little"
               ],
-              "explanation": "Đáp án là “She's little”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Quan sát đúng người, vật hoặc hành động trong hình rồi đọc cả câu. Phần còn thiếu phải là “She's little” để câu “Choose the correct sentence” có nghĩa."
             }
           ]
         },
@@ -662,7 +662,7 @@
               "answers": [
                 "I don't like eggs"
               ],
-              "explanation": "Câu hoàn chỉnh là “I don't like eggs”. Con đọc lại cả câu để kiểm tra ngữ pháp và trật tự từ."
+              "explanation": "Chủ ngữ I/you/we/they dùng like hoặc don't like. Khuôn mặt trong hình thể hiện không thích, nên điền “I don't like eggs”."
             },
             {
               "id": "u11e4q2",
@@ -677,7 +677,7 @@
               "answers": [
                 "I don't like snakes"
               ],
-              "explanation": "Câu hoàn chỉnh là “I don't like snakes”. Con đọc lại cả câu để kiểm tra ngữ pháp và trật tự từ."
+              "explanation": "Chủ ngữ I/you/we/they dùng like hoặc don't like. Khuôn mặt trong hình thể hiện không thích, nên điền “I don't like snakes”."
             },
             {
               "id": "u11e4q3",
@@ -692,7 +692,7 @@
               "answers": [
                 "I like parrots"
               ],
-              "explanation": "Câu hoàn chỉnh là “I like parrots”. Con đọc lại cả câu để kiểm tra ngữ pháp và trật tự từ."
+              "explanation": "Chủ ngữ I/you/we/they dùng like hoặc don't like. Khuôn mặt trong hình thể hiện thích, nên điền “I like parrots”."
             },
             {
               "id": "u11e4q4",
@@ -707,7 +707,7 @@
               "answers": [
                 "I don't like goats"
               ],
-              "explanation": "Câu hoàn chỉnh là “I don't like goats”. Con đọc lại cả câu để kiểm tra ngữ pháp và trật tự từ."
+              "explanation": "Chủ ngữ I/you/we/they dùng like hoặc don't like. Khuôn mặt trong hình thể hiện không thích, nên điền “I don't like goats”."
             },
             {
               "id": "u11e4q5",
@@ -722,7 +722,7 @@
               "answers": [
                 "I like lions"
               ],
-              "explanation": "Câu hoàn chỉnh là “I like lions”. Con đọc lại cả câu để kiểm tra ngữ pháp và trật tự từ."
+              "explanation": "Chủ ngữ I/you/we/they dùng like hoặc don't like. Khuôn mặt trong hình thể hiện thích, nên điền “I like lions”."
             }
           ]
         }
@@ -756,7 +756,7 @@
               "answers": [
                 "meat"
               ],
-              "explanation": "Đáp án là “meat”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Hình thể hiện “thịt”, nên chọn “meat”, không chọn “sandwich” (“bánh mì kẹp”)."
             },
             {
               "id": "u12e1q2",
@@ -774,7 +774,7 @@
               "answers": [
                 "carrots"
               ],
-              "explanation": "Đáp án là “carrots”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Hình thể hiện “cà rốt”, nên chọn “carrots”, không chọn “tomatoes”."
             },
             {
               "id": "u12e1q3",
@@ -792,7 +792,7 @@
               "answers": [
                 "bread"
               ],
-              "explanation": "Đáp án là “bread”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Hình thể hiện “bánh mì”, nên chọn “bread”, không chọn “biscuit”."
             }
           ]
         },
@@ -816,7 +816,7 @@
                 "yogurt",
                 "yoghurt"
               ],
-              "explanation": "Đáp án là “yogurt”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“yogurt” nghĩa là “sữa chua”. Mẫu “y _ _ _ _ _” còn thiếu o-g-u-r-t; điền đúng sẽ được y-o-g-u-r-t."
             },
             {
               "id": "u12e2q2",
@@ -831,7 +831,7 @@
               "answers": [
                 "milk"
               ],
-              "explanation": "Đáp án là “milk”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“milk” nghĩa là “sữa”. Mẫu “m _ _ _” còn thiếu i-l-k; điền đúng sẽ được m-i-l-k."
             },
             {
               "id": "u12e2q3",
@@ -846,7 +846,7 @@
               "answers": [
                 "rice"
               ],
-              "explanation": "Đáp án là “rice”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“rice” nghĩa là “cơm hoặc gạo”. Mẫu “r _ _ _” còn thiếu i-c-e; điền đúng sẽ được r-i-c-e."
             },
             {
               "id": "u12e2q4",
@@ -861,7 +861,7 @@
               "answers": [
                 "juice"
               ],
-              "explanation": "Đáp án là “juice”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“juice” nghĩa là “nước ép”. Mẫu “j _ _ _ _” còn thiếu u-i-c-e; điền đúng sẽ được j-u-i-c-e."
             },
             {
               "id": "u12e2q5",
@@ -876,7 +876,7 @@
               "answers": [
                 "fish"
               ],
-              "explanation": "Đáp án là “fish”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“fish” nghĩa là “cá”. Mẫu “f _ _ _” còn thiếu i-s-h; điền đúng sẽ được f-i-s-h."
             }
           ]
         },
@@ -899,7 +899,7 @@
               "answers": [
                 "Do you like milk"
               ],
-              "explanation": "Câu đúng là “Do you like milk”. Con giữ đủ các từ và kiểm tra lại vị trí chủ ngữ, động từ và dấu câu."
+              "explanation": "Câu hỏi Yes/No đưa Is/Are/Has/Have/Do/Does/Can lên đầu, rồi đến chủ ngữ. Vì vậy thứ tự đúng là “Do you like milk”."
             },
             {
               "id": "u12e3q2",
@@ -914,7 +914,7 @@
               "answers": [
                 "What do you like"
               ],
-              "explanation": "Câu đúng là “What do you like”. Con giữ đủ các từ và kiểm tra lại vị trí chủ ngữ, động từ và dấu câu."
+              "explanation": "Câu hỏi bắt đầu bằng từ hỏi, sau đó là trợ động từ và chủ ngữ. Vì vậy thứ tự đúng là “What do you like”."
             },
             {
               "id": "u12e3q3",
@@ -930,7 +930,7 @@
                 "I like yogurt",
                 "I like yoghurt"
               ],
-              "explanation": "Câu đúng là “I like yogurt”. Con giữ đủ các từ và kiểm tra lại vị trí chủ ngữ, động từ và dấu câu."
+              "explanation": "Câu kể theo trật tự: chủ ngữ → động từ → phần còn lại. Vì vậy thứ tự đúng là “I like yogurt”."
             },
             {
               "id": "u12e3q4",
@@ -945,7 +945,7 @@
               "answers": [
                 "I don't like grapes"
               ],
-              "explanation": "Câu đúng là “I don't like grapes”. Con giữ đủ các từ và kiểm tra lại vị trí chủ ngữ, động từ và dấu câu."
+              "explanation": "Câu kể theo trật tự: chủ ngữ → động từ → phần còn lại. Vì vậy thứ tự đúng là “I don't like grapes”."
             }
           ]
         },
@@ -969,7 +969,7 @@
                 "Do don't",
                 "Do you like fish No I don't"
               ],
-              "explanation": "Đáp án là “Do don't”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Câu hỏi với you bắt đầu bằng Do. Câu trả lời phủ định cho No, I dùng don't. Vì vậy hai chỗ trống lần lượt là “Do” và “don't”."
             },
             {
               "id": "u12e4q2",
@@ -985,7 +985,7 @@
                 "Do don't",
                 "Do you like tomatoes No I don't"
               ],
-              "explanation": "Đáp án là “Do don't”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Câu hỏi với you bắt đầu bằng Do. Câu trả lời phủ định cho No, I dùng don't. Vì vậy hai chỗ trống lần lượt là “Do” và “don't”."
             },
             {
               "id": "u12e4q3",
@@ -1001,7 +1001,7 @@
                 "Do do",
                 "Do you like carrots Yes I do"
               ],
-              "explanation": "Đáp án là “Do do”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Câu hỏi với you bắt đầu bằng Do. Câu trả lời khẳng định cho Yes, I dùng do. Vì vậy hai chỗ trống lần lượt là “Do” và “do”."
             }
           ]
         }

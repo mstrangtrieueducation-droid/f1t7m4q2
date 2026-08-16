@@ -74,7 +74,7 @@
               "answers": [
                 "T-shirt"
               ],
-              "explanation": "Đáp án là “T-shirt”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Quan sát đúng người, vật hoặc hành động trong hình rồi đọc cả câu. Phần còn thiếu phải là “T-shirt” để câu “T-s T-shirt i T-shirt t” có nghĩa."
             },
             {
               "id": "u07e1q2",
@@ -89,7 +89,7 @@
               "answers": [
                 "shoes"
               ],
-              "explanation": "Đáp án là “shoes”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“shoes” nghĩa là “giày”. Mẫu “s _ o _ s” còn thiếu h-e; điền đúng sẽ được s-h-o-e-s."
             },
             {
               "id": "u07e1q3",
@@ -104,7 +104,7 @@
               "answers": [
                 "trousers"
               ],
-              "explanation": "Đáp án là “trousers”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“trousers” nghĩa là “quần dài”. Mẫu “tr _ _ s _ _ s” còn thiếu o-u-e-r; điền đúng sẽ được t-r-o-u-s-e-r-s."
             },
             {
               "id": "u07e1q4",
@@ -119,7 +119,7 @@
               "answers": [
                 "coat"
               ],
-              "explanation": "Đáp án là “coat”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“coat” nghĩa là “áo khoác”. Mẫu “c _ _ t” còn thiếu o-a; điền đúng sẽ được c-o-a-t."
             }
           ]
         },
@@ -142,7 +142,7 @@
               "answers": [
                 "socks"
               ],
-              "explanation": "Đáp án là “socks”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“socks” nghĩa là “tất”. Đây là hình khác nhóm so với các hình còn lại, nên con viết “socks”."
             },
             {
               "id": "u07e2q2",
@@ -157,7 +157,7 @@
               "answers": [
                 "dress"
               ],
-              "explanation": "Đáp án là “dress”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“dress” nghĩa là “váy liền”. Đây là hình khác nhóm so với các hình còn lại, nên con viết “dress”."
             },
             {
               "id": "u07e2q3",
@@ -172,7 +172,7 @@
               "answers": [
                 "trousers"
               ],
-              "explanation": "Đáp án là “trousers”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“trousers” nghĩa là “quần dài”. Đây là hình khác nhóm so với các hình còn lại, nên con viết “trousers”."
             }
           ]
         },
@@ -198,7 +198,7 @@
               "answers": [
                 "his"
               ],
-              "explanation": "Đáp án là “his”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“his” dùng để chỉ đồ thuộc về một bạn nam/người nam. Hình cho đúng người sở hữu, nên câu hoàn chỉnh là “This is his hat”."
             },
             {
               "id": "u07e3q2",
@@ -213,7 +213,7 @@
               "answers": [
                 "her"
               ],
-              "explanation": "Đáp án là “her”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“her” dùng để chỉ đồ thuộc về một bạn nữ/người nữ. Hình cho đúng người sở hữu, nên câu hoàn chỉnh là “This is her coat”."
             },
             {
               "id": "u07e3q3",
@@ -228,7 +228,7 @@
               "answers": [
                 "his"
               ],
-              "explanation": "Đáp án là “his”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“his” dùng để chỉ đồ thuộc về một bạn nam/người nam. Hình cho đúng người sở hữu, nên câu hoàn chỉnh là “These are his shorts”."
             }
           ]
         },
@@ -251,7 +251,7 @@
               "answers": [
                 "Yes, they are"
               ],
-              "explanation": "Câu đúng là “Yes, they are”. Con giữ đủ các từ và kiểm tra lại vị trí chủ ngữ, động từ và dấu câu."
+              "explanation": "Câu trả lời ngắn bắt đầu bằng Yes/No, rồi đến chủ ngữ và động từ phù hợp. Vì vậy thứ tự đúng là “Yes, they are”."
             },
             {
               "id": "u07e4q2",
@@ -266,7 +266,7 @@
               "answers": [
                 "Are these her socks"
               ],
-              "explanation": "Câu đúng là “Are these her socks”. Con giữ đủ các từ và kiểm tra lại vị trí chủ ngữ, động từ và dấu câu."
+              "explanation": "Câu hỏi Yes/No đưa Is/Are/Has/Have/Do/Does/Can lên đầu, rồi đến chủ ngữ. Vì vậy thứ tự đúng là “Are these her socks”."
             },
             {
               "id": "u07e4q3",
@@ -281,7 +281,7 @@
               "answers": [
                 "Is this her hat"
               ],
-              "explanation": "Câu đúng là “Is this her hat”. Con giữ đủ các từ và kiểm tra lại vị trí chủ ngữ, động từ và dấu câu."
+              "explanation": "Câu hỏi Yes/No đưa Is/Are/Has/Have/Do/Does/Can lên đầu, rồi đến chủ ngữ. Vì vậy thứ tự đúng là “Is this her hat”."
             },
             {
               "id": "u07e4q4",
@@ -296,7 +296,7 @@
               "answers": [
                 "No, they aren't"
               ],
-              "explanation": "Câu đúng là “No, they aren't”. Con giữ đủ các từ và kiểm tra lại vị trí chủ ngữ, động từ và dấu câu."
+              "explanation": "Câu trả lời ngắn bắt đầu bằng Yes/No, rồi đến chủ ngữ và động từ phù hợp. Vì vậy thứ tự đúng là “No, they aren't”."
             },
             {
               "id": "u07e4q5",
@@ -311,7 +311,7 @@
               "answers": [
                 "Is this his coat"
               ],
-              "explanation": "Câu đúng là “Is this his coat”. Con giữ đủ các từ và kiểm tra lại vị trí chủ ngữ, động từ và dấu câu."
+              "explanation": "Câu hỏi Yes/No đưa Is/Are/Has/Have/Do/Does/Can lên đầu, rồi đến chủ ngữ. Vì vậy thứ tự đúng là “Is this his coat”."
             }
           ]
         }
@@ -345,7 +345,7 @@
               "answers": [
                 "yes"
               ],
-              "explanation": "Đáp án là yes. Con cần nhìn đúng chi tiết trong hình rồi mới chọn Yes hoặc No."
+              "explanation": "Từ hoặc câu trong đề đúng với hình, nên con chọn “yes”. Con nhìn lại đúng chi tiết được nêu trong câu “upstairs”."
             },
             {
               "id": "u08e1q2",
@@ -363,7 +363,7 @@
               "answers": [
                 "yes"
               ],
-              "explanation": "Đáp án là yes. Con cần nhìn đúng chi tiết trong hình rồi mới chọn Yes hoặc No."
+              "explanation": "Từ hoặc câu trong đề đúng với hình, nên con chọn “yes”. Con nhìn lại đúng chi tiết được nêu trong câu “bedroom”."
             },
             {
               "id": "u08e1q3",
@@ -381,7 +381,7 @@
               "answers": [
                 "no"
               ],
-              "explanation": "Đáp án là no. Con cần nhìn đúng chi tiết trong hình rồi mới chọn Yes hoặc No."
+              "explanation": "Từ hoặc câu trong đề không đúng với hình, nên con chọn “no”. Con nhìn lại đúng chi tiết được nêu trong câu “bathroom”."
             }
           ]
         },
@@ -404,7 +404,7 @@
               "answers": [
                 "bathroom"
               ],
-              "explanation": "Đáp án là “bathroom”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Sắp xếp các chữ r-o-o-m-t-h-b-a thành “bathroom”, nghĩa là “phòng tắm”. Thứ tự đúng là b-a-t-h-r-o-o-m."
             },
             {
               "id": "u08e2q2",
@@ -419,7 +419,7 @@
               "answers": [
                 "kitchen"
               ],
-              "explanation": "Đáp án là “kitchen”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Sắp xếp các chữ c-h-e-k-i-t-n thành “kitchen”, nghĩa là “nhà bếp”. Thứ tự đúng là k-i-t-c-h-e-n."
             },
             {
               "id": "u08e2q3",
@@ -434,7 +434,7 @@
               "answers": [
                 "dining room"
               ],
-              "explanation": "Đáp án là “dining room”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Sắp xếp các chữ n-i-n-d-i-g-m-o-o-r thành “dining room”, nghĩa là “phòng ăn”. Thứ tự đúng là d-i-n-i-n-g-/-r-o-o-m."
             },
             {
               "id": "u08e2q4",
@@ -449,7 +449,7 @@
               "answers": [
                 "living room"
               ],
-              "explanation": "Đáp án là “living room”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Sắp xếp các chữ i-v-l-i-g-n-o-m-r-o thành “living room”, nghĩa là “phòng khách”. Thứ tự đúng là l-i-v-i-n-g-/-r-o-o-m."
             }
           ]
         },
@@ -475,7 +475,7 @@
               "answers": [
                 "Where's Grandpa"
               ],
-              "explanation": "Đáp án là “Where's Grandpa”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Hình thể hiện “Where's Grandpa”, nên chọn “Where's Grandpa”, không chọn “Where's”."
             },
             {
               "id": "u08e3q2",
@@ -493,7 +493,7 @@
               "answers": [
                 "Where's Billy"
               ],
-              "explanation": "Đáp án là “Where's Billy”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Hình thể hiện “Where's Billy”, nên chọn “Where's Billy”, không chọn “Where's”."
             },
             {
               "id": "u08e3q3",
@@ -511,7 +511,7 @@
               "answers": [
                 "Where are my mum and dad"
               ],
-              "explanation": "Câu hoàn chỉnh là “Where are my mum and dad”. Con đọc lại cả câu để kiểm tra ngữ pháp và trật tự từ."
+              "explanation": "Câu hỏi có từ hai người trở lên nên dùng Where are. Đáp án hoàn chỉnh là “Where are my mum and dad”."
             },
             {
               "id": "u08e3q4",
@@ -529,7 +529,7 @@
               "answers": [
                 "Where are my cousins"
               ],
-              "explanation": "Câu hoàn chỉnh là “Where are my cousins”. Con đọc lại cả câu để kiểm tra ngữ pháp và trật tự từ."
+              "explanation": "Câu hỏi có từ hai người trở lên nên dùng Where are. Đáp án hoàn chỉnh là “Where are my cousins”."
             }
           ]
         },
@@ -553,7 +553,7 @@
                 "Yes they are",
                 "Yes, they are"
               ],
-              "explanation": "Câu hoàn chỉnh là “Yes they are”. Con đọc lại cả câu để kiểm tra ngữ pháp và trật tự từ."
+              "explanation": "Câu dùng động từ to be ở hiện tại; chủ ngữ là số nhiều nên dùng are/aren't. Đáp án đúng là “Yes they are”."
             },
             {
               "id": "u08e4q2",
@@ -569,7 +569,7 @@
                 "No she isn't",
                 "No, she isn't"
               ],
-              "explanation": "Câu hoàn chỉnh là “No she isn't”. Con đọc lại cả câu để kiểm tra ngữ pháp và trật tự từ."
+              "explanation": "Câu dùng động từ to be ở hiện tại; chủ ngữ là số ít nên dùng is/isn't. Đáp án đúng là “No she isn't”."
             },
             {
               "id": "u08e4q3",
@@ -586,7 +586,7 @@
                 "Is Rob in the bathroom Yes he is",
                 "Yes he is"
               ],
-              "explanation": "Câu hoàn chỉnh là “Is Yes is”. Con đọc lại cả câu để kiểm tra ngữ pháp và trật tự từ."
+              "explanation": "Câu dùng động từ to be ở hiện tại; chủ ngữ là số ít nên dùng is/isn't. Đáp án đúng là “Is Yes is”."
             },
             {
               "id": "u08e4q4",
@@ -603,7 +603,7 @@
                 "Are Grandpa and Grandma in the living room No they aren't",
                 "No they aren't"
               ],
-              "explanation": "Câu hoàn chỉnh là “Are No aren't”. Con đọc lại cả câu để kiểm tra ngữ pháp và trật tự từ."
+              "explanation": "Câu dùng động từ to be ở hiện tại; chủ ngữ là số nhiều nên dùng are/aren't. Đáp án đúng là “Are No aren't”."
             }
           ]
         }
@@ -637,7 +637,7 @@
               "answers": [
                 "drinks"
               ],
-              "explanation": "Đáp án là “drinks”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Hình thể hiện “đồ uống”, nên chọn “drinks”, không chọn “biscuit”."
             },
             {
               "id": "u09e1q2",
@@ -655,7 +655,7 @@
               "answers": [
                 "tomato"
               ],
-              "explanation": "Đáp án là “tomato”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Hình thể hiện “quả cà chua”, nên chọn “tomato”, không chọn “egg”."
             },
             {
               "id": "u09e1q3",
@@ -673,7 +673,7 @@
               "answers": [
                 "sandwich"
               ],
-              "explanation": "Đáp án là “sandwich”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Hình thể hiện “bánh mì kẹp”, nên chọn “sandwich”, không chọn “fig”."
             }
           ]
         },
@@ -696,7 +696,7 @@
               "answers": [
                 "grapes"
               ],
-              "explanation": "Đáp án là “grapes”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“grapes” nghĩa là “nho”. Mẫu “g _ _ p _ s” còn thiếu r-a-e; điền đúng sẽ được g-r-a-p-e-s."
             },
             {
               "id": "u09e2q2",
@@ -711,7 +711,7 @@
               "answers": [
                 "pear"
               ],
-              "explanation": "Đáp án là “pear”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“pear” nghĩa là “quả lê”. Mẫu “p _ _ r” còn thiếu e-a; điền đúng sẽ được p-e-a-r."
             },
             {
               "id": "u09e2q3",
@@ -726,7 +726,7 @@
               "answers": [
                 "banana"
               ],
-              "explanation": "Đáp án là “banana”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“banana” nghĩa là “quả chuối”. Mẫu “b _ n _ n _” còn thiếu a-a-a; điền đúng sẽ được b-a-n-a-n-a."
             },
             {
               "id": "u09e2q4",
@@ -741,7 +741,7 @@
               "answers": [
                 "apple"
               ],
-              "explanation": "Đáp án là “apple”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“apple” nghĩa là “quả táo”. Mẫu “a _ p _ e” còn thiếu p-l; điền đúng sẽ được a-p-p-l-e."
             }
           ]
         },
@@ -767,7 +767,7 @@
               "answers": [
                 "an"
               ],
-              "explanation": "Đáp án là “an”. Dùng an trước âm nguyên âm; dùng a trước âm phụ âm."
+              "explanation": "“egg” bắt đầu bằng âm nguyên âm, nên dùng “an” trước danh từ số ít này."
             },
             {
               "id": "u09e3q2",
@@ -782,7 +782,7 @@
               "answers": [
                 "a"
               ],
-              "explanation": "Chọn phương án A. Con đối chiếu ý số tương ứng với các phương án trong phần đề bài."
+              "explanation": "“lion” bắt đầu bằng âm phụ âm, nên dùng “a” trước danh từ số ít này."
             },
             {
               "id": "u09e3q3",
@@ -797,7 +797,7 @@
               "answers": [
                 "an"
               ],
-              "explanation": "Đáp án là “an”. Dùng an trước âm nguyên âm; dùng a trước âm phụ âm."
+              "explanation": "“ice cream” bắt đầu bằng âm nguyên âm, nên dùng “an” trước danh từ số ít này."
             },
             {
               "id": "u09e3q4",
@@ -812,7 +812,7 @@
               "answers": [
                 "a"
               ],
-              "explanation": "Chọn phương án A. Con đối chiếu ý số tương ứng với các phương án trong phần đề bài."
+              "explanation": "“kite” bắt đầu bằng âm phụ âm, nên dùng “a” trước danh từ số ít này."
             },
             {
               "id": "u09e3q5",
@@ -827,7 +827,7 @@
               "answers": [
                 "a"
               ],
-              "explanation": "Chọn phương án A. Con đối chiếu ý số tương ứng với các phương án trong phần đề bài."
+              "explanation": "“banana” bắt đầu bằng âm phụ âm, nên dùng “a” trước danh từ số ít này."
             }
           ]
         },
@@ -850,7 +850,7 @@
               "answers": [
                 "I haven't got a sandwich"
               ],
-              "explanation": "Câu đúng là “I haven't got a sandwich”. Con giữ đủ các từ và kiểm tra lại vị trí chủ ngữ, động từ và dấu câu."
+              "explanation": "Câu kể theo trật tự: chủ ngữ → động từ → phần còn lại. Vì vậy thứ tự đúng là “I haven't got a sandwich”."
             },
             {
               "id": "u09e4q2",
@@ -865,7 +865,7 @@
               "answers": [
                 "I haven't got a lunch box"
               ],
-              "explanation": "Câu đúng là “I haven't got a lunch box”. Con giữ đủ các từ và kiểm tra lại vị trí chủ ngữ, động từ và dấu câu."
+              "explanation": "Câu kể theo trật tự: chủ ngữ → động từ → phần còn lại. Vì vậy thứ tự đúng là “I haven't got a lunch box”."
             },
             {
               "id": "u09e4q3",
@@ -880,7 +880,7 @@
               "answers": [
                 "I've got a biscuit"
               ],
-              "explanation": "Câu đúng là “I've got a biscuit”. Con giữ đủ các từ và kiểm tra lại vị trí chủ ngữ, động từ và dấu câu."
+              "explanation": "Câu kể theo trật tự: chủ ngữ → động từ → phần còn lại. Vì vậy thứ tự đúng là “I've got a biscuit”."
             }
           ]
         }

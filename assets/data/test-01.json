@@ -79,7 +79,7 @@
               "answers": [
                 "door"
               ],
-              "explanation": "Đáp án là “door”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“door” nghĩa là “cánh cửa”. Hình cho thấy đúng cánh cửa, nên con viết chính xác d-o-o-r."
             },
             {
               "id": "u01e1q2",
@@ -94,7 +94,7 @@
               "answers": [
                 "pen"
               ],
-              "explanation": "Đáp án là “pen”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“pen” nghĩa là “bút mực”. Hình cho thấy đúng bút mực, nên con viết chính xác p-e-n."
             },
             {
               "id": "u01e1q3",
@@ -109,7 +109,7 @@
               "answers": [
                 "bag"
               ],
-              "explanation": "Đáp án là “bag”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“bag” nghĩa là “cặp hoặc túi”. Hình cho thấy đúng cặp hoặc túi, nên con viết chính xác b-a-g."
             },
             {
               "id": "u01e1q4",
@@ -124,7 +124,7 @@
               "answers": [
                 "apple"
               ],
-              "explanation": "Đáp án là “apple”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“apple” nghĩa là “quả táo”. Hình cho thấy đúng quả táo, nên con viết chính xác a-p-p-l-e."
             }
           ]
         },
@@ -147,7 +147,7 @@
               "answers": [
                 "pencil"
               ],
-              "explanation": "Đáp án là “pencil”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“pencil” nghĩa là “bút chì”. Mẫu “p _ _ _ _ l” còn thiếu e-n-c-i; điền đúng sẽ được p-e-n-c-i-l."
             },
             {
               "id": "u01e2q2",
@@ -162,7 +162,7 @@
               "answers": [
                 "ruler"
               ],
-              "explanation": "Đáp án là “ruler”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“ruler” nghĩa là “thước kẻ”. Mẫu “r _ _ _ r” còn thiếu u-l-e; điền đúng sẽ được r-u-l-e-r."
             },
             {
               "id": "u01e2q3",
@@ -177,7 +177,7 @@
               "answers": [
                 "rubber"
               ],
-              "explanation": "Đáp án là “rubber”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“rubber” nghĩa là “cục tẩy”. Mẫu “r _ _ _ _ r” còn thiếu u-b-b-e; điền đúng sẽ được r-u-b-b-e-r."
             },
             {
               "id": "u01e2q4",
@@ -192,7 +192,7 @@
               "answers": [
                 "window"
               ],
-              "explanation": "Đáp án là “window”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“window” nghĩa là “cửa sổ”. Mẫu “w _ _ _ _ w” còn thiếu i-n-d-o; điền đúng sẽ được w-i-n-d-o-w."
             }
           ]
         },
@@ -215,7 +215,7 @@
               "answers": [
                 "It's a pen"
               ],
-              "explanation": "Câu hoàn chỉnh là “It's a pen”. Con đọc lại cả câu để kiểm tra ngữ pháp và trật tự từ."
+              "explanation": "“What's this” hỏi về một đồ vật. Hình là “bút mực”, nên trả lời “It's a pen”; It's là dạng ngắn của It is."
             },
             {
               "id": "u01e3q2",
@@ -230,7 +230,7 @@
               "answers": [
                 "It's a rubber"
               ],
-              "explanation": "Câu hoàn chỉnh là “It's a rubber”. Con đọc lại cả câu để kiểm tra ngữ pháp và trật tự từ."
+              "explanation": "“What's this” hỏi về một đồ vật. Hình là “cục tẩy”, nên trả lời “It's a rubber”; It's là dạng ngắn của It is."
             },
             {
               "id": "u01e3q3",
@@ -245,7 +245,7 @@
               "answers": [
                 "It's a bag"
               ],
-              "explanation": "Câu hoàn chỉnh là “It's a bag”. Con đọc lại cả câu để kiểm tra ngữ pháp và trật tự từ."
+              "explanation": "“What's this” hỏi về một đồ vật. Hình là “cặp hoặc túi”, nên trả lời “It's a bag”; It's là dạng ngắn của It is."
             }
           ]
         },
@@ -289,7 +289,7 @@
               "answers": [
                 "d"
               ],
-              "explanation": "Chọn phương án D. Con đối chiếu ý số tương ứng với các phương án trong phần đề bài."
+              "explanation": "“It's my bag” cùng nghĩa với “It is my bag” vì dạng viết tắt không đổi nghĩa: It's = It is, She's = She is/She has, He's = He is/He has, We're = We are, They're = They are, hasn't = has not."
             },
             {
               "id": "u01e4q2",
@@ -325,7 +325,7 @@
               "answers": [
                 "c"
               ],
-              "explanation": "Chọn phương án C. Con đối chiếu ý số tương ứng với các phương án trong phần đề bài."
+              "explanation": "“It's my pencil” cùng nghĩa với “It is my pencil” vì dạng viết tắt không đổi nghĩa: It's = It is, She's = She is/She has, He's = He is/He has, We're = We are, They're = They are, hasn't = has not."
             },
             {
               "id": "u01e4q3",
@@ -361,7 +361,7 @@
               "answers": [
                 "a"
               ],
-              "explanation": "Chọn phương án A. Con đối chiếu ý số tương ứng với các phương án trong phần đề bài."
+              "explanation": "“It's red” cùng nghĩa với “It is red” vì dạng viết tắt không đổi nghĩa: It's = It is, She's = She is/She has, He's = He is/He has, We're = We are, They're = They are, hasn't = has not."
             },
             {
               "id": "u01e4q4",
@@ -397,7 +397,7 @@
               "answers": [
                 "e"
               ],
-              "explanation": "Chọn phương án E. Con đối chiếu ý số tương ứng với các phương án trong phần đề bài."
+              "explanation": "“It's a ruler” cùng nghĩa với “It is a ruler” vì dạng viết tắt không đổi nghĩa: It's = It is, She's = She is/She has, He's = He is/He has, We're = We are, They're = They are, hasn't = has not."
             }
           ]
         }
@@ -431,7 +431,7 @@
               "answers": [
                 "kite"
               ],
-              "explanation": "Đáp án là “kite”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Hình thể hiện “cái diều”, nên chọn “kite”, không chọn “bike” (“xe đạp”)."
             },
             {
               "id": "u02e1q2",
@@ -449,7 +449,7 @@
               "answers": [
                 "car"
               ],
-              "explanation": "Đáp án là “car”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Hình thể hiện “ô tô”, nên chọn “car”, không chọn “hat”."
             },
             {
               "id": "u02e1q3",
@@ -467,7 +467,7 @@
               "answers": [
                 "ball"
               ],
-              "explanation": "Đáp án là “ball”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Hình thể hiện “quả bóng”, nên chọn “ball”, không chọn “doll” (“búp bê”)."
             },
             {
               "id": "u02e1q4",
@@ -485,7 +485,7 @@
               "answers": [
                 "puzzle"
               ],
-              "explanation": "Đáp án là “puzzle”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Hình thể hiện “trò ghép hình”, nên chọn “puzzle”, không chọn “train”."
             }
           ]
         },
@@ -508,7 +508,7 @@
               "answers": [
                 "doll"
               ],
-              "explanation": "Đáp án là “doll”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Sắp xếp các chữ o-l-d-l thành “doll”, nghĩa là “búp bê”. Thứ tự đúng là d-o-l-l."
             },
             {
               "id": "u02e2q2",
@@ -523,7 +523,7 @@
               "answers": [
                 "puzzle"
               ],
-              "explanation": "Đáp án là “puzzle”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Sắp xếp các chữ z-z-l-u-p-e thành “puzzle”, nghĩa là “trò ghép hình”. Thứ tự đúng là p-u-z-z-l-e."
             },
             {
               "id": "u02e2q3",
@@ -538,7 +538,7 @@
               "answers": [
                 "teddy"
               ],
-              "explanation": "Đáp án là “teddy”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Sắp xếp các chữ d-t-e-d-y thành “teddy”, nghĩa là “gấu bông”. Thứ tự đúng là t-e-d-d-y."
             },
             {
               "id": "u02e2q4",
@@ -553,7 +553,7 @@
               "answers": [
                 "bike"
               ],
-              "explanation": "Đáp án là “bike”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Sắp xếp các chữ i-k-e-b thành “bike”, nghĩa là “xe đạp”. Thứ tự đúng là b-i-k-e."
             }
           ]
         },
@@ -576,7 +576,7 @@
               "answers": [
                 "Yes, it is"
               ],
-              "explanation": "Câu đúng là “Yes, it is”. Con giữ đủ các từ và kiểm tra lại vị trí chủ ngữ, động từ và dấu câu."
+              "explanation": "Câu trả lời ngắn bắt đầu bằng Yes/No, rồi đến chủ ngữ và động từ phù hợp. Vì vậy thứ tự đúng là “Yes, it is”."
             },
             {
               "id": "u02e3q2",
@@ -591,7 +591,7 @@
               "answers": [
                 "This is my kite"
               ],
-              "explanation": "Câu đúng là “This is my kite”. Con giữ đủ các từ và kiểm tra lại vị trí chủ ngữ, động từ và dấu câu."
+              "explanation": "Câu kể theo trật tự: chủ ngữ → động từ → phần còn lại. Vì vậy thứ tự đúng là “This is my kite”."
             },
             {
               "id": "u02e3q3",
@@ -606,7 +606,7 @@
               "answers": [
                 "Is this your train"
               ],
-              "explanation": "Câu đúng là “Is this your train”. Con giữ đủ các từ và kiểm tra lại vị trí chủ ngữ, động từ và dấu câu."
+              "explanation": "Câu hỏi Yes/No đưa Is/Are/Has/Have/Do/Does/Can lên đầu, rồi đến chủ ngữ. Vì vậy thứ tự đúng là “Is this your train”."
             },
             {
               "id": "u02e3q4",
@@ -621,7 +621,7 @@
               "answers": [
                 "No, it isn't"
               ],
-              "explanation": "Câu đúng là “No, it isn't”. Con giữ đủ các từ và kiểm tra lại vị trí chủ ngữ, động từ và dấu câu."
+              "explanation": "Câu trả lời ngắn bắt đầu bằng Yes/No, rồi đến chủ ngữ và động từ phù hợp. Vì vậy thứ tự đúng là “No, it isn't”."
             }
           ]
         },
@@ -644,7 +644,7 @@
               "answers": [
                 "isn't"
               ],
-              "explanation": "Đáp án là “isn't”. Con nhìn chủ ngữ và số ít/số nhiều để chọn đúng dạng của động từ be."
+              "explanation": "Câu dùng động từ to be ở hiện tại; chủ ngữ là số ít nên dùng is/isn't. Đáp án đúng là “isn't”."
             },
             {
               "id": "u02e4q2",
@@ -659,7 +659,7 @@
               "answers": [
                 "it isn't"
               ],
-              "explanation": "Đáp án là “it isn't”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Câu dùng động từ to be ở hiện tại; chủ ngữ là số ít nên dùng is/isn't. Đáp án đúng là “it isn't”."
             },
             {
               "id": "u02e4q3",
@@ -674,7 +674,7 @@
               "answers": [
                 "it is"
               ],
-              "explanation": "Đáp án là “it is”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Câu dùng động từ to be ở hiện tại; chủ ngữ là số ít nên dùng is/isn't. Đáp án đúng là “it is”."
             }
           ]
         }
@@ -710,7 +710,7 @@
               "answers": [
                 "eyes"
               ],
-              "explanation": "Đáp án là “eyes”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“eyes” nghĩa là “đôi mắt”. Hình cho thấy đúng đôi mắt, nên con viết chính xác e-y-e-s."
             },
             {
               "id": "u03e1q2",
@@ -730,7 +730,7 @@
               "answers": [
                 "ears"
               ],
-              "explanation": "Đáp án là “ears”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“ears” nghĩa là “đôi tai”. Hình cho thấy đúng đôi tai, nên con viết chính xác e-a-r-s."
             },
             {
               "id": "u03e1q3",
@@ -750,7 +750,7 @@
               "answers": [
                 "nose"
               ],
-              "explanation": "Đáp án là “nose”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“nose” nghĩa là “mũi”. Hình cho thấy đúng mũi, nên con viết chính xác n-o-s-e."
             },
             {
               "id": "u03e1q4",
@@ -770,7 +770,7 @@
               "answers": [
                 "legs"
               ],
-              "explanation": "Đáp án là “legs”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“legs” nghĩa là “đôi chân”. Hình cho thấy đúng đôi chân, nên con viết chính xác l-e-g-s."
             },
             {
               "id": "u03e1q5",
@@ -790,7 +790,7 @@
               "answers": [
                 "arms"
               ],
-              "explanation": "Đáp án là “arms”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“arms” nghĩa là “đôi tay”. Hình cho thấy đúng đôi tay, nên con viết chính xác a-r-m-s."
             },
             {
               "id": "u03e1q6",
@@ -810,7 +810,7 @@
               "answers": [
                 "hands"
               ],
-              "explanation": "Đáp án là “hands”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“hands” nghĩa là “bàn tay”. Hình cho thấy đúng bàn tay, nên con viết chính xác h-a-n-d-s."
             },
             {
               "id": "u03e1q7",
@@ -830,7 +830,7 @@
               "answers": [
                 "fingers"
               ],
-              "explanation": "Đáp án là “fingers”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“fingers” nghĩa là “các ngón tay”. Hình cho thấy đúng các ngón tay, nên con viết chính xác f-i-n-g-e-r-s."
             }
           ]
         },
@@ -856,7 +856,7 @@
               "answers": [
                 "lions"
               ],
-              "explanation": "Đáp án là “lions”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "three lớn hơn 1 nên danh từ phải ở số nhiều. Vì vậy chọn “lions”; danh từ được thêm -s hoặc đổi sang dạng số nhiều phù hợp."
             },
             {
               "id": "u03e2q2",
@@ -874,7 +874,7 @@
               "answers": [
                 "eyes"
               ],
-              "explanation": "Đáp án là “eyes”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "two lớn hơn 1 nên danh từ phải ở số nhiều. Vì vậy chọn “eyes”; danh từ được thêm -s hoặc đổi sang dạng số nhiều phù hợp."
             },
             {
               "id": "u03e2q3",
@@ -892,7 +892,7 @@
               "answers": [
                 "kites"
               ],
-              "explanation": "Đáp án là “kites”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "four lớn hơn 1 nên danh từ phải ở số nhiều. Vì vậy chọn “kites”; danh từ được thêm -s hoặc đổi sang dạng số nhiều phù hợp."
             },
             {
               "id": "u03e2q4",
@@ -910,7 +910,7 @@
               "answers": [
                 "face"
               ],
-              "explanation": "Đáp án là “face”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "one chỉ một nên danh từ ở số ít. Vì vậy chọn “face”; không thêm -s."
             },
             {
               "id": "u03e2q5",
@@ -928,7 +928,7 @@
               "answers": [
                 "legs"
               ],
-              "explanation": "Đáp án là “legs”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "five lớn hơn 1 nên danh từ phải ở số nhiều. Vì vậy chọn “legs”; danh từ được thêm -s hoặc đổi sang dạng số nhiều phù hợp."
             }
           ]
         },
@@ -954,7 +954,7 @@
               "answers": [
                 "These are my eyes"
               ],
-              "explanation": "Câu hoàn chỉnh là “These are my eyes”. Con đọc lại cả câu để kiểm tra ngữ pháp và trật tự từ."
+              "explanation": "“These are my eyes” dùng cho một đồ vật ở gần. Vì vậy câu đúng là “Choose the sentence that matches the picture”."
             },
             {
               "id": "u03e3q2",
@@ -972,7 +972,7 @@
               "answers": [
                 "These are my fingers"
               ],
-              "explanation": "Câu hoàn chỉnh là “These are my fingers”. Con đọc lại cả câu để kiểm tra ngữ pháp và trật tự từ."
+              "explanation": "“These are my fingers” dùng cho một đồ vật ở gần. Vì vậy câu đúng là “Choose the sentence that matches the picture”."
             },
             {
               "id": "u03e3q3",
@@ -990,7 +990,7 @@
               "answers": [
                 "This is my face"
               ],
-              "explanation": "Câu hoàn chỉnh là “This is my face”. Con đọc lại cả câu để kiểm tra ngữ pháp và trật tự từ."
+              "explanation": "“This is my face” dùng cho một đồ vật ở gần. Vì vậy câu đúng là “Choose the sentence that matches the picture”."
             }
           ]
         }

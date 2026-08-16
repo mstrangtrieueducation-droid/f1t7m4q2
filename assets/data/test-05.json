@@ -74,7 +74,7 @@
               "answers": [
                 "blanket"
               ],
-              "explanation": "Đáp án là “blanket”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“blanket” nghĩa là “chăn”. Mẫu “bl _ _ _ _ t” còn thiếu a-n-k-e; điền đúng sẽ được b-l-a-n-k-e-t."
             },
             {
               "id": "u13e1q2",
@@ -89,7 +89,7 @@
               "answers": [
                 "pillow"
               ],
-              "explanation": "Đáp án là “pillow”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“pillow” nghĩa là “gối”. Mẫu “p _ ll _ w” còn thiếu i-o; điền đúng sẽ được p-i-l-l-o-w."
             },
             {
               "id": "u13e1q3",
@@ -104,7 +104,7 @@
               "answers": [
                 "desk"
               ],
-              "explanation": "Đáp án là “desk”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“desk” nghĩa là “bàn học”. Mẫu “d _ s _” còn thiếu e-k; điền đúng sẽ được d-e-s-k."
             },
             {
               "id": "u13e1q4",
@@ -119,7 +119,7 @@
               "answers": [
                 "cupboard"
               ],
-              "explanation": "Đáp án là “cupboard”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“cupboard” nghĩa là “tủ”. Mẫu “c _ pb _ _ _ d” còn thiếu u-o-a-r; điền đúng sẽ được c-u-p-b-o-a-r-d."
             }
           ]
         },
@@ -143,7 +143,7 @@
                 "twelve 12",
                 "12 twelve"
               ],
-              "explanation": "Đáp án là “twelve 12”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“twelve” là cách viết bằng chữ của số 12. Con viết đủ cả từ và số: twelve – 12."
             },
             {
               "id": "u13e2q2",
@@ -159,7 +159,7 @@
                 "fifteen 15",
                 "15 fifteen"
               ],
-              "explanation": "Đáp án là “fifteen 15”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“fifteen” là cách viết bằng chữ của số 15. Con viết đủ cả từ và số: fifteen – 15."
             },
             {
               "id": "u13e2q3",
@@ -175,7 +175,7 @@
                 "twenty 20",
                 "20 twenty"
               ],
-              "explanation": "Đáp án là “twenty 20”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“twenty” là cách viết bằng chữ của số 20. Con viết đủ cả từ và số: twenty – 20."
             },
             {
               "id": "u13e2q4",
@@ -191,7 +191,7 @@
                 "fourteen 14",
                 "14 fourteen"
               ],
-              "explanation": "Đáp án là “fourteen 14”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“fourteen” là cách viết bằng chữ của số 14. Con viết đủ cả từ và số: fourteen – 14."
             }
           ]
         },
@@ -214,7 +214,7 @@
               "answers": [
                 "teddy"
               ],
-              "explanation": "Đáp án là “teddy”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Quan sát đúng người, vật hoặc hành động trong hình rồi đọc cả câu. Phần còn thiếu phải là “teddy” để câu “There's a teddy under the bed” có nghĩa."
             },
             {
               "id": "u13e3q2",
@@ -229,7 +229,7 @@
               "answers": [
                 "dolls"
               ],
-              "explanation": "Đáp án là “dolls”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Quan sát đúng người, vật hoặc hành động trong hình rồi đọc cả câu. Phần còn thiếu phải là “dolls” để câu “There are dolls on the rug” có nghĩa."
             },
             {
               "id": "u13e3q3",
@@ -244,7 +244,7 @@
               "answers": [
                 "coats"
               ],
-              "explanation": "Đáp án là “coats”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Quan sát đúng người, vật hoặc hành động trong hình rồi đọc cả câu. Phần còn thiếu phải là “coats” để câu “There are three coats in the cupboard” có nghĩa."
             }
           ]
         },
@@ -272,7 +272,7 @@
               "answers": [
                 "on"
               ],
-              "explanation": "Đáp án là “on”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Từ đúng là “on”. Mẫu “There's a teddy _____ the bed” còn thiếu o-n; điền đúng sẽ được o-n."
             },
             {
               "id": "u13e4q2",
@@ -287,7 +287,7 @@
               "answers": [
                 "in"
               ],
-              "explanation": "Đáp án là “in”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Từ đúng là “in”. Mẫu “There are three coats _____ the cupboard” còn thiếu i-n; điền đúng sẽ được i-n."
             },
             {
               "id": "u13e4q3",
@@ -302,7 +302,7 @@
               "answers": [
                 "on"
               ],
-              "explanation": "Đáp án là “on”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Từ đúng là “on”. Mẫu “There are two books _____ the shelf” còn thiếu n; điền đúng sẽ được o-n."
             },
             {
               "id": "u13e4q4",
@@ -317,7 +317,7 @@
               "answers": [
                 "in"
               ],
-              "explanation": "Đáp án là “in”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Từ đúng là “in”. Mẫu “There's a car _____ the cupboard” còn thiếu i-n; điền đúng sẽ được i-n."
             }
           ]
         }
@@ -348,7 +348,7 @@
               "answers": [
                 "fly"
               ],
-              "explanation": "Đáp án là “fly”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“fly” nghĩa là “bay”. Hình cho thấy đúng bay, nên con viết chính xác f-l-y."
             },
             {
               "id": "u14e1q2",
@@ -363,7 +363,7 @@
               "answers": [
                 "swim"
               ],
-              "explanation": "Đáp án là “swim”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“swim” nghĩa là “bơi”. Hình cho thấy đúng bơi, nên con viết chính xác s-w-i-m."
             },
             {
               "id": "u14e1q3",
@@ -378,7 +378,7 @@
               "answers": [
                 "sing"
               ],
-              "explanation": "Đáp án là “sing”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“sing” nghĩa là “hát”. Hình cho thấy đúng hát, nên con viết chính xác s-i-n-g."
             },
             {
               "id": "u14e1q4",
@@ -393,7 +393,7 @@
               "answers": [
                 "run"
               ],
-              "explanation": "Đáp án là “run”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“run” nghĩa là “chạy”. Hình cho thấy đúng chạy, nên con viết chính xác r-u-n."
             },
             {
               "id": "u14e1q5",
@@ -408,7 +408,7 @@
               "answers": [
                 "fly"
               ],
-              "explanation": "Đáp án là “fly”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“fly” nghĩa là “bay”. Hình cho thấy đúng bay, nên con viết chính xác f-l-y."
             },
             {
               "id": "u14e1q6",
@@ -423,7 +423,7 @@
               "answers": [
                 "swim"
               ],
-              "explanation": "Đáp án là “swim”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“swim” nghĩa là “bơi”. Hình cho thấy đúng bơi, nên con viết chính xác s-w-i-m."
             },
             {
               "id": "u14e1q7",
@@ -438,7 +438,7 @@
               "answers": [
                 "sing"
               ],
-              "explanation": "Đáp án là “sing”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“sing” nghĩa là “hát”. Hình cho thấy đúng hát, nên con viết chính xác s-i-n-g."
             },
             {
               "id": "u14e1q8",
@@ -453,7 +453,7 @@
               "answers": [
                 "run"
               ],
-              "explanation": "Đáp án là “run”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“run” nghĩa là “chạy”. Hình cho thấy đúng chạy, nên con viết chính xác r-u-n."
             }
           ]
         },
@@ -476,7 +476,7 @@
               "answers": [
                 "He can't sing"
               ],
-              "explanation": "Câu đúng là “He can't sing”. Con giữ đủ các từ và kiểm tra lại vị trí chủ ngữ, động từ và dấu câu."
+              "explanation": "Câu kể theo trật tự: chủ ngữ → động từ → phần còn lại. Vì vậy thứ tự đúng là “He can't sing”."
             },
             {
               "id": "u14e2q2",
@@ -491,7 +491,7 @@
               "answers": [
                 "Can it climb"
               ],
-              "explanation": "Câu đúng là “Can it climb”. Con giữ đủ các từ và kiểm tra lại vị trí chủ ngữ, động từ và dấu câu."
+              "explanation": "Câu hỏi Yes/No đưa Is/Are/Has/Have/Do/Does/Can lên đầu, rồi đến chủ ngữ. Vì vậy thứ tự đúng là “Can it climb”."
             },
             {
               "id": "u14e2q3",
@@ -506,7 +506,7 @@
               "answers": [
                 "Can he fly"
               ],
-              "explanation": "Câu đúng là “Can he fly”. Con giữ đủ các từ và kiểm tra lại vị trí chủ ngữ, động từ và dấu câu."
+              "explanation": "Câu hỏi Yes/No đưa Is/Are/Has/Have/Do/Does/Can lên đầu, rồi đến chủ ngữ. Vì vậy thứ tự đúng là “Can he fly”."
             },
             {
               "id": "u14e2q4",
@@ -521,7 +521,7 @@
               "answers": [
                 "She can swim"
               ],
-              "explanation": "Câu đúng là “She can swim”. Con giữ đủ các từ và kiểm tra lại vị trí chủ ngữ, động từ và dấu câu."
+              "explanation": "Câu kể theo trật tự: chủ ngữ → động từ → phần còn lại. Vì vậy thứ tự đúng là “She can swim”."
             }
           ]
         },
@@ -544,7 +544,7 @@
               "answers": [
                 "Yes, he can"
               ],
-              "explanation": "Câu hoàn chỉnh là “Yes, he can”. Con đọc lại cả câu để kiểm tra ngữ pháp và trật tự từ."
+              "explanation": "Từ hoặc câu trong đề đúng với hình, nên con chọn “Yes, he can”. Con nhìn lại đúng chi tiết được nêu trong câu “Can he run”."
             },
             {
               "id": "u14e3q2",
@@ -559,7 +559,7 @@
               "answers": [
                 "No, it can't"
               ],
-              "explanation": "Câu hoàn chỉnh là “No, it can't”. Con đọc lại cả câu để kiểm tra ngữ pháp và trật tự từ."
+              "explanation": "Từ hoặc câu trong đề không đúng với hình, nên con chọn “No, it can't”. Con nhìn lại đúng chi tiết được nêu trong câu “Can it fly? No, it _____”."
             },
             {
               "id": "u14e3q3",
@@ -575,7 +575,7 @@
                 "Yes she can",
                 "Yes, she can"
               ],
-              "explanation": "Câu hoàn chỉnh là “Yes she can”. Con đọc lại cả câu để kiểm tra ngữ pháp và trật tự từ."
+              "explanation": "“can” nói ai đó có thể làm việc gì; “can't” nói không thể. Hình cho thấy câu trả lời khẳng định, nên đáp án đầy đủ là “Yes she can”."
             }
           ]
         }
@@ -609,7 +609,7 @@
               "answers": [
                 "shell"
               ],
-              "explanation": "Đáp án là “shell”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Hình thể hiện “vỏ sò”, nên chọn “shell”, không chọn “sea”."
             },
             {
               "id": "u15e1q2",
@@ -627,7 +627,7 @@
               "answers": [
                 "crab"
               ],
-              "explanation": "Đáp án là “crab”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Hình thể hiện “con cua”, nên chọn “crab”, không chọn “cat”."
             },
             {
               "id": "u15e1q3",
@@ -645,7 +645,7 @@
               "answers": [
                 "boat"
               ],
-              "explanation": "Đáp án là “boat”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Hình thể hiện “thuyền”, nên chọn “boat”, không chọn “ball” (“quả bóng”)."
             },
             {
               "id": "u15e1q4",
@@ -663,7 +663,7 @@
               "answers": [
                 "ice cream"
               ],
-              "explanation": "Đáp án là “ice cream”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Hình thể hiện “kem”, nên chọn “ice cream”, không chọn “bat” (“gậy đánh bóng”)."
             }
           ]
         },
@@ -686,7 +686,7 @@
               "answers": [
                 "sandcastle"
               ],
-              "explanation": "Đáp án là “sandcastle”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“sandcastle” nghĩa là “lâu đài cát”. Mẫu “s _ _ d c _ s t _ _” còn thiếu a-n-a-l-e; điền đúng sẽ được s-a-n-d-c-a-s-t-l-e."
             },
             {
               "id": "u15e2q2",
@@ -701,7 +701,7 @@
               "answers": [
                 "bat"
               ],
-              "explanation": "Đáp án là “bat”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“bat” nghĩa là “gậy đánh bóng”. Mẫu “b _ _” còn thiếu a-t; điền đúng sẽ được b-a-t."
             },
             {
               "id": "u15e2q3",
@@ -716,7 +716,7 @@
               "answers": [
                 "ball"
               ],
-              "explanation": "Đáp án là “ball”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“ball” nghĩa là “quả bóng”. Mẫu “b _ _ _” còn thiếu a-l-l; điền đúng sẽ được b-a-l-l."
             },
             {
               "id": "u15e2q4",
@@ -732,7 +732,7 @@
                 "sun cream",
                 "suncream"
               ],
-              "explanation": "Đáp án là “sun cream”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“sun cream” nghĩa là “kem chống nắng”. Mẫu “s _ n  c r _ _ _” còn thiếu u-e-a-m; điền đúng sẽ được s-u-n-/-c-r-e-a-m."
             }
           ]
         },
@@ -755,7 +755,7 @@
               "answers": [
                 "Let's find shells"
               ],
-              "explanation": "Câu đúng là “Let's find shells”. Con giữ đủ các từ và kiểm tra lại vị trí chủ ngữ, động từ và dấu câu."
+              "explanation": "Câu rủ ai cùng làm bắt đầu bằng Let's rồi dùng động từ nguyên mẫu. Vì vậy thứ tự đúng là “Let's find shells”."
             },
             {
               "id": "u15e3q2",
@@ -770,7 +770,7 @@
               "answers": [
                 "That's a good idea"
               ],
-              "explanation": "Câu đúng là “That's a good idea”. Con giữ đủ các từ và kiểm tra lại vị trí chủ ngữ, động từ và dấu câu."
+              "explanation": "Câu kể theo trật tự: chủ ngữ → động từ → phần còn lại. Vì vậy thứ tự đúng là “That's a good idea”."
             },
             {
               "id": "u15e3q3",
@@ -785,7 +785,7 @@
               "answers": [
                 "Don't forget your hat"
               ],
-              "explanation": "Câu đúng là “Don't forget your hat”. Con giữ đủ các từ và kiểm tra lại vị trí chủ ngữ, động từ và dấu câu."
+              "explanation": "Câu mệnh lệnh phủ định bắt đầu bằng Don't rồi dùng động từ nguyên mẫu. Vì vậy thứ tự đúng là “Don't forget your hat”."
             },
             {
               "id": "u15e3q4",
@@ -800,7 +800,7 @@
               "answers": [
                 "Let's make sandcastles"
               ],
-              "explanation": "Câu đúng là “Let's make sandcastles”. Con giữ đủ các từ và kiểm tra lại vị trí chủ ngữ, động từ và dấu câu."
+              "explanation": "Câu rủ ai cùng làm bắt đầu bằng Let's rồi dùng động từ nguyên mẫu. Vì vậy thứ tự đúng là “Let's make sandcastles”."
             }
           ]
         },
@@ -827,7 +827,7 @@
               "answers": [
                 "swim"
               ],
-              "explanation": "Đáp án là “swim”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“swim” nghĩa là “bơi”. Mẫu “Let's _____ in the sea” còn thiếu w-m; điền đúng sẽ được s-w-i-m."
             },
             {
               "id": "u15e4q2",
@@ -842,7 +842,7 @@
               "answers": [
                 "forget"
               ],
-              "explanation": "Đáp án là “forget”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "Từ đúng là “forget”. Mẫu “Don't _____ your sun cream” còn thiếu f-g; điền đúng sẽ được f-o-r-g-e-t."
             },
             {
               "id": "u15e4q3",
@@ -857,7 +857,7 @@
               "answers": [
                 "run"
               ],
-              "explanation": "Đáp án là “run”. Con đối chiếu hình hoặc ngữ cảnh trong đề để nhận ra từ phù hợp."
+              "explanation": "“run” nghĩa là “chạy”. Mẫu “Let's _____ on the beach” còn thiếu r-u; điền đúng sẽ được r-u-n."
             }
           ]
         }
